@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <WorkGiverDef>
+    <defName>WorkGiver_Rehearser</defName>
+    <giverClass>RazzleDazzle.WorkGiver_Rehearser</giverClass>
+    <workType>Performance</workType>
+    <priorityInType>80</priorityInType>
+    <fixedBillGiverDefs>
+      <li>StageDef</li>
+      <li>GrandPianoDef</li>
+    </fixedBillGiverDefs>
+    <verb>rehearse</verb>
+    <gerund>rehearsing</gerund>
+    <requiredCapacities>
+      <li>Talking</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>WorkGiver_PreparePerformance</defName>
+    <giverClass>RazzleDazzle.WorkGiver_PreparePerformance</giverClass>
+    <workType>Performance</workType>
+    <priorityInType>81</priorityInType>
+    <verb>Perparing for a performance</verb>
+    <gerund>Preparing for a performance</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>WorkGiver_DoBillsAtGrandPiano</defName>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Art</workType>
+    <priorityInType>60</priorityInType>
+    <fixedBillGiverDefs>
+      <li>GrandPianoDef</li>
+    </fixedBillGiverDefs>
+    <verb>Compose Music</verb>
+    <gerund>Composing music</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef> 
+ 
+</Defs>

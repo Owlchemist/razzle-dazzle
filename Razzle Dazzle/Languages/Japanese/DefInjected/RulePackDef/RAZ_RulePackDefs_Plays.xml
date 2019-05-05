@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RAZ_ArtName_Play.rulePack.rulesStrings.0>art_name->[anyPawn_nameShort]</RAZ_ArtName_Play.rulePack.rulesStrings.0>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.1>art_name->[drug]</RAZ_ArtName_Play.rulePack.rulesStrings.1>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.2>art_name->[disease]</RAZ_ArtName_Play.rulePack.rulesStrings.2>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.3>art_name->[disease] &amp; [drug]</RAZ_ArtName_Play.rulePack.rulesStrings.3>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.4>art_name->[material] &amp; [drug]</RAZ_ArtName_Play.rulePack.rulesStrings.4>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.5>art_name->[weapon]s &amp; [drug]</RAZ_ArtName_Play.rulePack.rulesStrings.5>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.6>art_name->The [material] [weapon]</RAZ_ArtName_Play.rulePack.rulesStrings.6>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.7>art_name->[anyPawn_nameShort] [romannumeral] (Part I)</RAZ_ArtName_Play.rulePack.rulesStrings.7>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.8>art_name->[relationType] [anyPawn_nameShort]</RAZ_ArtName_Play.rulePack.rulesStrings.8>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.9>art_name->[prename] [anyPawn_name]</RAZ_ArtName_Play.rulePack.rulesStrings.9>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.10>art_name->[preplace] [place]</RAZ_ArtName_Play.rulePack.rulesStrings.10>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.11>art_name->The [material] [furniture]</RAZ_ArtName_Play.rulePack.rulesStrings.11>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.12>art_name->The [adjective] [animal]</RAZ_ArtName_Play.rulePack.rulesStrings.12>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.13>art_name->The [adjective] [weapon]</RAZ_ArtName_Play.rulePack.rulesStrings.13>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.14>art_name->The [adjective] [furniture]</RAZ_ArtName_Play.rulePack.rulesStrings.14>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.15>art_name->[preconcept] [concept]</RAZ_ArtName_Play.rulePack.rulesStrings.15>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.16>art_name->[concept]</RAZ_ArtName_Play.rulePack.rulesStrings.16>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.17>art_name->[prenoun] [animalType]</RAZ_ArtName_Play.rulePack.rulesStrings.17>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.18>art_name->[prenoun] [weapon]</RAZ_ArtName_Play.rulePack.rulesStrings.18>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.19>art_name->[animalType] on a [oneSylAdj] [material] roof</RAZ_ArtName_Play.rulePack.rulesStrings.19>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.20>art_name->All My [relationType]s</RAZ_ArtName_Play.rulePack.rulesStrings.20>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.21>art_name->All My [animalType]s</RAZ_ArtName_Play.rulePack.rulesStrings.21>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.22>relationType->Brother</RAZ_ArtName_Play.rulePack.rulesStrings.22>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.23>relationType->Sister</RAZ_ArtName_Play.rulePack.rulesStrings.23>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.24>relationType->Uncle</RAZ_ArtName_Play.rulePack.rulesStrings.24>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.25>relationType->Aunt</RAZ_ArtName_Play.rulePack.rulesStrings.25>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.26>relationType->Cousin</RAZ_ArtName_Play.rulePack.rulesStrings.26>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.27>drug->Smokeleaf</RAZ_ArtName_Play.rulePack.rulesStrings.27>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.28>drug->Go-Juice</RAZ_ArtName_Play.rulePack.rulesStrings.28>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.29>drug->Yayo</RAZ_ArtName_Play.rulePack.rulesStrings.29>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.30>drug->Whisky</RAZ_ArtName_Play.rulePack.rulesStrings.30>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.31>drug->Luciferum</RAZ_ArtName_Play.rulePack.rulesStrings.31>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.32>drug->Flake</RAZ_ArtName_Play.rulePack.rulesStrings.32>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.33>drug->Coffee</RAZ_ArtName_Play.rulePack.rulesStrings.33>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.34>disease->Heart Attack</RAZ_ArtName_Play.rulePack.rulesStrings.34>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.35>disease->Hypothermia</RAZ_ArtName_Play.rulePack.rulesStrings.35>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.36>disease->Heatstroke</RAZ_ArtName_Play.rulePack.rulesStrings.36>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.37>disease->Influenza</RAZ_ArtName_Play.rulePack.rulesStrings.37>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.38>disease->Mechanites</RAZ_ArtName_Play.rulePack.rulesStrings.38>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.39>disease->Parasites</RAZ_ArtName_Play.rulePack.rulesStrings.39>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.40>disease->Malaria</RAZ_ArtName_Play.rulePack.rulesStrings.40>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.41>disease->Sleeping Sickness</RAZ_ArtName_Play.rulePack.rulesStrings.41>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.42>disease->Dementia</RAZ_ArtName_Play.rulePack.rulesStrings.42>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.43>disease->Carcinoma</RAZ_ArtName_Play.rulePack.rulesStrings.43>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.44>material->Steel</RAZ_ArtName_Play.rulePack.rulesStrings.44>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.45>material->Gold</RAZ_ArtName_Play.rulePack.rulesStrings.45>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.46>material->Silver</RAZ_ArtName_Play.rulePack.rulesStrings.46>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.47>material->Copper</RAZ_ArtName_Play.rulePack.rulesStrings.47>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.48>material->Titanium</RAZ_ArtName_Play.rulePack.rulesStrings.48>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.49>material->Uranium</RAZ_ArtName_Play.rulePack.rulesStrings.49>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.50>material->Tin</RAZ_ArtName_Play.rulePack.rulesStrings.50>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.51>material->Marble</RAZ_ArtName_Play.rulePack.rulesStrings.51>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.52>material->Devilstrand</RAZ_ArtName_Play.rulePack.rulesStrings.52>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.53>material->Synthread</RAZ_ArtName_Play.rulePack.rulesStrings.53>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.54>material->Tantalum</RAZ_ArtName_Play.rulePack.rulesStrings.54>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.55>material->Obsidian</RAZ_ArtName_Play.rulePack.rulesStrings.55>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.56>material->Thrumbohorn</RAZ_ArtName_Play.rulePack.rulesStrings.56>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.57>material->Glass</RAZ_ArtName_Play.rulePack.rulesStrings.57>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.58>weapon->Gun</RAZ_ArtName_Play.rulePack.rulesStrings.58>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.59>weapon->Gladius</RAZ_ArtName_Play.rulePack.rulesStrings.59>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.60>weapon->Longsword</RAZ_ArtName_Play.rulePack.rulesStrings.60>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.61>weapon->Club</RAZ_ArtName_Play.rulePack.rulesStrings.61>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.62>weapon->Survival Rifle</RAZ_ArtName_Play.rulePack.rulesStrings.62>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.63>weapon->Sniper Rifle</RAZ_ArtName_Play.rulePack.rulesStrings.63>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.64>weapon->Pistol</RAZ_ArtName_Play.rulePack.rulesStrings.64>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.65>weapon->Knife</RAZ_ArtName_Play.rulePack.rulesStrings.65>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.66>prename->The Tragical History of the Life and Death of</RAZ_ArtName_Play.rulePack.rulesStrings.66>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.67>prename->The Exciting Adventures of</RAZ_ArtName_Play.rulePack.rulesStrings.67>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.68>prename->The Importance of Being</RAZ_ArtName_Play.rulePack.rulesStrings.68>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.69>prename->Who's Afraid of</RAZ_ArtName_Play.rulePack.rulesStrings.69>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.70>prename->Waiting for </RAZ_ArtName_Play.rulePack.rulesStrings.70>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.71>preplace->The Good Person of</RAZ_ArtName_Play.rulePack.rulesStrings.71>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.72>preplace->The Merry Wives of</RAZ_ArtName_Play.rulePack.rulesStrings.72>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.73>preplace->The Pirates of</RAZ_ArtName_Play.rulePack.rulesStrings.73>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.74>preplace->The Raiders of</RAZ_ArtName_Play.rulePack.rulesStrings.74>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.75>preplace->The Merchant of</RAZ_ArtName_Play.rulePack.rulesStrings.75>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.76>preplace->A Tale of</RAZ_ArtName_Play.rulePack.rulesStrings.76>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.77>preplace->Two Gentlemen of</RAZ_ArtName_Play.rulePack.rulesStrings.77>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.78>place->Glasgow</RAZ_ArtName_Play.rulePack.rulesStrings.78>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.79>place->the Orion Installation</RAZ_ArtName_Play.rulePack.rulesStrings.79>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.80>place->the Rim</RAZ_ArtName_Play.rulePack.rulesStrings.80>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.81>place->the Village</RAZ_ArtName_Play.rulePack.rulesStrings.81>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.82>place->the Dining Room</RAZ_ArtName_Play.rulePack.rulesStrings.82>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.83>place->Old Earth</RAZ_ArtName_Play.rulePack.rulesStrings.83>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.84>place->Prison</RAZ_ArtName_Play.rulePack.rulesStrings.84>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.85>place->the Rec Room</RAZ_ArtName_Play.rulePack.rulesStrings.85>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.86>place->the Desert</RAZ_ArtName_Play.rulePack.rulesStrings.86>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.87>place->the Ocean</RAZ_ArtName_Play.rulePack.rulesStrings.87>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.88>place->the Rings of the Imperium</RAZ_ArtName_Play.rulePack.rulesStrings.88>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.89>furniture->Bed</RAZ_ArtName_Play.rulePack.rulesStrings.89>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.90>furniture->Desk</RAZ_ArtName_Play.rulePack.rulesStrings.90>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.91>furniture->Wall</RAZ_ArtName_Play.rulePack.rulesStrings.91>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.92>furniture->Chair</RAZ_ArtName_Play.rulePack.rulesStrings.92>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.93>furniture->Lamp</RAZ_ArtName_Play.rulePack.rulesStrings.93>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.94>furniture->Mirror</RAZ_ArtName_Play.rulePack.rulesStrings.94>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.95>furniture->Lazy Susan</RAZ_ArtName_Play.rulePack.rulesStrings.95>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.96>furniture->Comm Console</RAZ_ArtName_Play.rulePack.rulesStrings.96>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.97>animalType->Thrumbo</RAZ_ArtName_Play.rulePack.rulesStrings.97>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.98>animalType->Muffalo</RAZ_ArtName_Play.rulePack.rulesStrings.98>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.99>animalType->Boomrat</RAZ_ArtName_Play.rulePack.rulesStrings.99>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.100>animalType->Boomalope</RAZ_ArtName_Play.rulePack.rulesStrings.100>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.101>animalType->Megatherum</RAZ_ArtName_Play.rulePack.rulesStrings.101>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.102>animalType->Fox</RAZ_ArtName_Play.rulePack.rulesStrings.102>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.103>animalType->Wolf</RAZ_ArtName_Play.rulePack.rulesStrings.103>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.104>animalType->Cat</RAZ_ArtName_Play.rulePack.rulesStrings.104>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.105>animalType->Swan</RAZ_ArtName_Play.rulePack.rulesStrings.105>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.106>animalType->Puffin</RAZ_ArtName_Play.rulePack.rulesStrings.106>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.107>animalType->Penguin</RAZ_ArtName_Play.rulePack.rulesStrings.107>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.108>animalType->Warg</RAZ_ArtName_Play.rulePack.rulesStrings.108>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.109>animalType->Alphabeaver</RAZ_ArtName_Play.rulePack.rulesStrings.109>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.110>animalType->Labrador</RAZ_ArtName_Play.rulePack.rulesStrings.110>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.111>animalType->Husky</RAZ_ArtName_Play.rulePack.rulesStrings.111>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.112>animalType->Alpaca</RAZ_ArtName_Play.rulePack.rulesStrings.112>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.113>animalType->Squirrel</RAZ_ArtName_Play.rulePack.rulesStrings.113>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.114>animalType->Swordfish</RAZ_ArtName_Play.rulePack.rulesStrings.114>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.115>animalType->Rat</RAZ_ArtName_Play.rulePack.rulesStrings.115>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.116>prenoun->Lady Windemere's</RAZ_ArtName_Play.rulePack.rulesStrings.116>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.117>prenoun->The </RAZ_ArtName_Play.rulePack.rulesStrings.117>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.118>prenoun->A Doll's</RAZ_ArtName_Play.rulePack.rulesStrings.118>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.119>preconcept->A Midsummer Night's</RAZ_ArtName_Play.rulePack.rulesStrings.119>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.120>preconcept->A Winter's </RAZ_ArtName_Play.rulePack.rulesStrings.120>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.121>preconcept->A [weapon] Named</RAZ_ArtName_Play.rulePack.rulesStrings.121>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.122>preconcept->A [animalType] Named</RAZ_ArtName_Play.rulePack.rulesStrings.122>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.123>preconcept->A Streetcar Named</RAZ_ArtName_Play.rulePack.rulesStrings.123>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.124>preconcept->Much Ado About</RAZ_ArtName_Play.rulePack.rulesStrings.124>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.125>adjective->Happy</RAZ_ArtName_Play.rulePack.rulesStrings.125>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.126>adjective->Unfortunate</RAZ_ArtName_Play.rulePack.rulesStrings.126>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.127>adjective->Irrelevant</RAZ_ArtName_Play.rulePack.rulesStrings.127>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.128>adjective->Hidden</RAZ_ArtName_Play.rulePack.rulesStrings.128>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.129>adjective->Missing</RAZ_ArtName_Play.rulePack.rulesStrings.129>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.130>adjective->Last</RAZ_ArtName_Play.rulePack.rulesStrings.130>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.131>adjective->Hopeful</RAZ_ArtName_Play.rulePack.rulesStrings.131>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.132>oneSylAdj->New</RAZ_ArtName_Play.rulePack.rulesStrings.132>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.133>oneSylAdj->Red</RAZ_ArtName_Play.rulePack.rulesStrings.133>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.134>oneSylAdj->Blue</RAZ_ArtName_Play.rulePack.rulesStrings.134>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.135>oneSylAdj->Fast</RAZ_ArtName_Play.rulePack.rulesStrings.135>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.136>oneSylAdj->Whole</RAZ_ArtName_Play.rulePack.rulesStrings.136>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.137>oneSylAdj->Neat</RAZ_ArtName_Play.rulePack.rulesStrings.137>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.138>oneSylAdj->Green</RAZ_ArtName_Play.rulePack.rulesStrings.138>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.139>oneSylAdj->Gold</RAZ_ArtName_Play.rulePack.rulesStrings.139>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.140>oneSylAdj->Trite</RAZ_ArtName_Play.rulePack.rulesStrings.140>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.141>oneSylAdj->One</RAZ_ArtName_Play.rulePack.rulesStrings.141>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.142>oneSylAdj->Cold</RAZ_ArtName_Play.rulePack.rulesStrings.142>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.143>oneSylAdj->Hot</RAZ_ArtName_Play.rulePack.rulesStrings.143>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.144>oneSylAdj->Fine</RAZ_ArtName_Play.rulePack.rulesStrings.144>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.145>oneSylAdj->Bold</RAZ_ArtName_Play.rulePack.rulesStrings.145>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.146>oneSylAdj->Soft</RAZ_ArtName_Play.rulePack.rulesStrings.146>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.147>oneSylAdj->Hard</RAZ_ArtName_Play.rulePack.rulesStrings.147>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.148>oneSylAdj->Rough</RAZ_ArtName_Play.rulePack.rulesStrings.148>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.149>oneSylAdj->Smooth</RAZ_ArtName_Play.rulePack.rulesStrings.149>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.150>oneSylAdj->Drunk</RAZ_ArtName_Play.rulePack.rulesStrings.150>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.151>oneSylAdj->Slow</RAZ_ArtName_Play.rulePack.rulesStrings.151>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.152>oneSylAdj->Black</RAZ_ArtName_Play.rulePack.rulesStrings.152>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.153>oneSylAdj->Dark</RAZ_ArtName_Play.rulePack.rulesStrings.153>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.154>oneSylAdj->Tired</RAZ_ArtName_Play.rulePack.rulesStrings.154>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.155>oneSylAdj->Tough</RAZ_ArtName_Play.rulePack.rulesStrings.155>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.156>oneSylAdj->Pure</RAZ_ArtName_Play.rulePack.rulesStrings.156>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.157>oneSylAdj->Lost</RAZ_ArtName_Play.rulePack.rulesStrings.157>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.158>oneSylAdj->Loathed</RAZ_ArtName_Play.rulePack.rulesStrings.158>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.159>oneSylAdj->Loved</RAZ_ArtName_Play.rulePack.rulesStrings.159>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.160>oneSylAdj->Dry</RAZ_ArtName_Play.rulePack.rulesStrings.160>
+  <RAZ_ArtName_Play.rulePack.rulesStrings.161>oneSylAdj->Wet</RAZ_ArtName_Play.rulePack.rulesStrings.161>
+
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.0>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].[play_tale_context]</RAZ_ArtDescription_Play.rulePack.rulesStrings.0>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.1>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].[play_tale_context]</RAZ_ArtDescription_Play.rulePack.rulesStrings.1>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.2>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].[play_tale_context]</RAZ_ArtDescription_Play.rulePack.rulesStrings.2>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.3>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].[play_tale_context]</RAZ_ArtDescription_Play.rulePack.rulesStrings.3>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.4>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].[play_tale_context]</RAZ_ArtDescription_Play.rulePack.rulesStrings.4>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.5>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].[play_tale_context]</RAZ_ArtDescription_Play.rulePack.rulesStrings.5>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.6>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].</RAZ_ArtDescription_Play.rulePack.rulesStrings.6>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.7>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].</RAZ_ArtDescription_Play.rulePack.rulesStrings.7>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.8>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].</RAZ_ArtDescription_Play.rulePack.rulesStrings.8>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.9>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].</RAZ_ArtDescription_Play.rulePack.rulesStrings.9>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.10>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].</RAZ_ArtDescription_Play.rulePack.rulesStrings.10>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.11>art_description_root->This [playType] is set [setting], and explores themes of [theme] and [theme] [secondSentencePart].</RAZ_ArtDescription_Play.rulePack.rulesStrings.11>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.12>play_tale_context-> This [depiction] is inspired by [tale_noun] on [date].</RAZ_ArtDescription_Play.rulePack.rulesStrings.12>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.13>play_tale_context-> This [depiction] unsubtly parodies [tale_noun] on [date].</RAZ_ArtDescription_Play.rulePack.rulesStrings.13>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.14>play_tale_context-> The plot of [depiction] makes numerous references to [tale_noun] on [date].</RAZ_ArtDescription_Play.rulePack.rulesStrings.14>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.15>playType->comedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.15>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.16>playType->comedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.16>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.17>playType->comedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.17>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.18>playType->farce</RAZ_ArtDescription_Play.rulePack.rulesStrings.18>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.19>playType->farce</RAZ_ArtDescription_Play.rulePack.rulesStrings.19>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.20>playType->satire</RAZ_ArtDescription_Play.rulePack.rulesStrings.20>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.21>playType->satire</RAZ_ArtDescription_Play.rulePack.rulesStrings.21>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.22>playType->tragedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.22>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.23>playType->tragedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.23>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.24>playType->tragedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.24>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.25>playType->history</RAZ_ArtDescription_Play.rulePack.rulesStrings.25>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.26>playType->history</RAZ_ArtDescription_Play.rulePack.rulesStrings.26>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.27>playType->melodrama</RAZ_ArtDescription_Play.rulePack.rulesStrings.27>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.28>playType->melodrama</RAZ_ArtDescription_Play.rulePack.rulesStrings.28>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.29>playType->tragic comedy</RAZ_ArtDescription_Play.rulePack.rulesStrings.29>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.30>playType->didactic drama</RAZ_ArtDescription_Play.rulePack.rulesStrings.30>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.31>playType->burlesque</RAZ_ArtDescription_Play.rulePack.rulesStrings.31>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.32>playType->travesty</RAZ_ArtDescription_Play.rulePack.rulesStrings.32>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.33>playType->kabuki</RAZ_ArtDescription_Play.rulePack.rulesStrings.33>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.34>playType->nuo drama</RAZ_ArtDescription_Play.rulePack.rulesStrings.34>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.35>playType->egungun masquerade</RAZ_ArtDescription_Play.rulePack.rulesStrings.35>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.36>playType->kathakali</RAZ_ArtDescription_Play.rulePack.rulesStrings.36>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.37>theme->sexuality</RAZ_ArtDescription_Play.rulePack.rulesStrings.37>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.38>theme->religion</RAZ_ArtDescription_Play.rulePack.rulesStrings.38>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.39>theme->identity</RAZ_ArtDescription_Play.rulePack.rulesStrings.39>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.40>theme->joy</RAZ_ArtDescription_Play.rulePack.rulesStrings.40>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.41>theme->determinism</RAZ_ArtDescription_Play.rulePack.rulesStrings.41>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.42>theme->bigotry</RAZ_ArtDescription_Play.rulePack.rulesStrings.42>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.43>theme->prejudice</RAZ_ArtDescription_Play.rulePack.rulesStrings.43>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.44>theme->jingoism</RAZ_ArtDescription_Play.rulePack.rulesStrings.44>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.45>theme->violence</RAZ_ArtDescription_Play.rulePack.rulesStrings.45>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.46>theme->gender</RAZ_ArtDescription_Play.rulePack.rulesStrings.46>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.47>theme->mortality</RAZ_ArtDescription_Play.rulePack.rulesStrings.47>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.48>theme->bionic enhancement</RAZ_ArtDescription_Play.rulePack.rulesStrings.48>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.49>theme->artificial intelligence</RAZ_ArtDescription_Play.rulePack.rulesStrings.49>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.50>theme->abandonment</RAZ_ArtDescription_Play.rulePack.rulesStrings.50>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.51>theme->isolation</RAZ_ArtDescription_Play.rulePack.rulesStrings.51>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.52>theme->community</RAZ_ArtDescription_Play.rulePack.rulesStrings.52>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.53>theme->chaos</RAZ_ArtDescription_Play.rulePack.rulesStrings.53>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.54>theme->beauty</RAZ_ArtDescription_Play.rulePack.rulesStrings.54>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.55>theme->power</RAZ_ArtDescription_Play.rulePack.rulesStrings.55>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.56>theme->character</RAZ_ArtDescription_Play.rulePack.rulesStrings.56>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.57>theme->courage</RAZ_ArtDescription_Play.rulePack.rulesStrings.57>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.58>theme->sickness</RAZ_ArtDescription_Play.rulePack.rulesStrings.58>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.59>theme->lost purpose</RAZ_ArtDescription_Play.rulePack.rulesStrings.59>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.60>theme->immortality</RAZ_ArtDescription_Play.rulePack.rulesStrings.60>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.61>theme->transhumanism</RAZ_ArtDescription_Play.rulePack.rulesStrings.61>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.62>theme->injustice</RAZ_ArtDescription_Play.rulePack.rulesStrings.62>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.63>theme->lost innocence</RAZ_ArtDescription_Play.rulePack.rulesStrings.63>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.64>theme->solace</RAZ_ArtDescription_Play.rulePack.rulesStrings.64>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.65>theme->hope</RAZ_ArtDescription_Play.rulePack.rulesStrings.65>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.66>theme->love</RAZ_ArtDescription_Play.rulePack.rulesStrings.66>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.67>theme->animal personhood</RAZ_ArtDescription_Play.rulePack.rulesStrings.67>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.68>theme->robotic personhood</RAZ_ArtDescription_Play.rulePack.rulesStrings.68>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.69>theme->personhood</RAZ_ArtDescription_Play.rulePack.rulesStrings.69>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.70>theme->sexism</RAZ_ArtDescription_Play.rulePack.rulesStrings.70>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.71>theme->materialism</RAZ_ArtDescription_Play.rulePack.rulesStrings.71>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.72>theme->democracy</RAZ_ArtDescription_Play.rulePack.rulesStrings.72>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.73>theme->sectarianism</RAZ_ArtDescription_Play.rulePack.rulesStrings.73>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.74>theme->corruption</RAZ_ArtDescription_Play.rulePack.rulesStrings.74>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.75>theme->incomplete knowledge</RAZ_ArtDescription_Play.rulePack.rulesStrings.75>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.76>theme->technology</RAZ_ArtDescription_Play.rulePack.rulesStrings.76>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.77>theme->totalitarianism</RAZ_ArtDescription_Play.rulePack.rulesStrings.77>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.78>theme->class warfare</RAZ_ArtDescription_Play.rulePack.rulesStrings.78>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.79>theme->vulnerability</RAZ_ArtDescription_Play.rulePack.rulesStrings.79>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.80>theme->megalomania</RAZ_ArtDescription_Play.rulePack.rulesStrings.80>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.81>theme->traditionalism</RAZ_ArtDescription_Play.rulePack.rulesStrings.81>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.82>theme->parenthood</RAZ_ArtDescription_Play.rulePack.rulesStrings.82>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.83>theme->betrayal</RAZ_ArtDescription_Play.rulePack.rulesStrings.83>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.84>theme->friendship</RAZ_ArtDescription_Play.rulePack.rulesStrings.84>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.85>theme->trust</RAZ_ArtDescription_Play.rulePack.rulesStrings.85>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.86>theme->displacement</RAZ_ArtDescription_Play.rulePack.rulesStrings.86>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.87>theme->salvation</RAZ_ArtDescription_Play.rulePack.rulesStrings.87>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.88>theme->family</RAZ_ArtDescription_Play.rulePack.rulesStrings.88>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.89>theme->purpose</RAZ_ArtDescription_Play.rulePack.rulesStrings.89>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.90>theme->addiction</RAZ_ArtDescription_Play.rulePack.rulesStrings.90>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.91>theme->autonomy</RAZ_ArtDescription_Play.rulePack.rulesStrings.91>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.92>theme->consequence</RAZ_ArtDescription_Play.rulePack.rulesStrings.92>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.93>theme->sanity</RAZ_ArtDescription_Play.rulePack.rulesStrings.93>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.94>theme->subjective experience</RAZ_ArtDescription_Play.rulePack.rulesStrings.94>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.95>theme->tolerance</RAZ_ArtDescription_Play.rulePack.rulesStrings.95>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.96>theme->anarcho-syndicalism</RAZ_ArtDescription_Play.rulePack.rulesStrings.96>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.97>theme->urbworld crime</RAZ_ArtDescription_Play.rulePack.rulesStrings.97>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.98>theme->linguistics</RAZ_ArtDescription_Play.rulePack.rulesStrings.98>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.99>theme->learning</RAZ_ArtDescription_Play.rulePack.rulesStrings.99>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.100>theme->loyalty</RAZ_ArtDescription_Play.rulePack.rulesStrings.100>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.101>theme->environmentalism</RAZ_ArtDescription_Play.rulePack.rulesStrings.101>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.102>theme->drug use</RAZ_ArtDescription_Play.rulePack.rulesStrings.102>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.103>theme->rationalism</RAZ_ArtDescription_Play.rulePack.rulesStrings.103>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.104>theme->science</RAZ_ArtDescription_Play.rulePack.rulesStrings.104>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.105>theme->surveillance</RAZ_ArtDescription_Play.rulePack.rulesStrings.105>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.106>theme->culture</RAZ_ArtDescription_Play.rulePack.rulesStrings.106>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.107>theme->valor</RAZ_ArtDescription_Play.rulePack.rulesStrings.107>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.108>theme->war</RAZ_ArtDescription_Play.rulePack.rulesStrings.108>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.109>theme->spirituality</RAZ_ArtDescription_Play.rulePack.rulesStrings.109>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.110>theme->depression</RAZ_ArtDescription_Play.rulePack.rulesStrings.110>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.111>theme->transcendence</RAZ_ArtDescription_Play.rulePack.rulesStrings.111>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.112>theme->social anxiety</RAZ_ArtDescription_Play.rulePack.rulesStrings.112>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.113>setting->on a [shipAdj] [shipType] [shipLocation]</RAZ_ArtDescription_Play.rulePack.rulesStrings.113>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.114>setting->in a [worldDescription] [iWorldType] [worldLocationType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.114>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.115>shipAdj->mysterious</RAZ_ArtDescription_Play.rulePack.rulesStrings.115>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.116>shipAdj->sentient</RAZ_ArtDescription_Play.rulePack.rulesStrings.116>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.117>shipAdj->labyrinthine</RAZ_ArtDescription_Play.rulePack.rulesStrings.117>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.118>shipAdj->derelict</RAZ_ArtDescription_Play.rulePack.rulesStrings.118>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.119>shipAdj->huge</RAZ_ArtDescription_Play.rulePack.rulesStrings.119>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.120>shipAdj->beautiful</RAZ_ArtDescription_Play.rulePack.rulesStrings.120>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.121>shipAdj->lively</RAZ_ArtDescription_Play.rulePack.rulesStrings.121>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.122>shipAdj->battered</RAZ_ArtDescription_Play.rulePack.rulesStrings.122>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.123>shipAdj->decommissioned</RAZ_ArtDescription_Play.rulePack.rulesStrings.123>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.124>shipType->space station</RAZ_ArtDescription_Play.rulePack.rulesStrings.124>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.125>shipType->trade ship</RAZ_ArtDescription_Play.rulePack.rulesStrings.125>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.126>shipType->time clipper</RAZ_ArtDescription_Play.rulePack.rulesStrings.126>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.127>shipType->freighter</RAZ_ArtDescription_Play.rulePack.rulesStrings.127>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.128>shipType->pleasure cruiser</RAZ_ArtDescription_Play.rulePack.rulesStrings.128>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.129>shipType->command carrier</RAZ_ArtDescription_Play.rulePack.rulesStrings.129>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.130>shipType->mining junk</RAZ_ArtDescription_Play.rulePack.rulesStrings.130>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.131>shipType->gilded corsair</RAZ_ArtDescription_Play.rulePack.rulesStrings.131>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.132>shipType->warship</RAZ_ArtDescription_Play.rulePack.rulesStrings.132>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.133>shipType->plasteel corvette</RAZ_ArtDescription_Play.rulePack.rulesStrings.133>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.134>shipType->passenger liner</RAZ_ArtDescription_Play.rulePack.rulesStrings.134>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.135>shipType->gunboat</RAZ_ArtDescription_Play.rulePack.rulesStrings.135>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.136>shipLocation->orbiting a [worldType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.136>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.137>shipLocation->crashed on a [worldType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.137>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.138>shipLocation->en route to a [worldType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.138>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.139>shipLocation->spiralling toward a [worldType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.139>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.140>shipLocation->lost in [spaceLocation]</RAZ_ArtDescription_Play.rulePack.rulesStrings.140>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.141>shipLocation->exploring [spaceLocation]</RAZ_ArtDescription_Play.rulePack.rulesStrings.141>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.142>shipLocation->travelling through [spaceLocation]</RAZ_ArtDescription_Play.rulePack.rulesStrings.142>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.143>worldType->GlitterWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.143>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.144>worldType->MidWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.144>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.145>worldType->RimWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.145>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.146>worldType->HiveWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.146>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.147>worldType->TunnelWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.147>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.148>worldType->CoreWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.148>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.149>worldType->[worldDescription] planet</RAZ_ArtDescription_Play.rulePack.rulesStrings.149>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.150>worldType->[worldDescription] gas giant</RAZ_ArtDescription_Play.rulePack.rulesStrings.150>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.151>worldType->[worldDescription] moon</RAZ_ArtDescription_Play.rulePack.rulesStrings.151>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.152>worldType->[worldDescription] asteroid</RAZ_ArtDescription_Play.rulePack.rulesStrings.152>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.153>iWorldType->GlitterWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.153>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.154>iWorldType->MidWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.154>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.155>iWorldType->RimWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.155>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.156>iWorldType->HiveWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.156>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.157>iWorldType->TunnelWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.157>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.158>iWorldType->CoreWorld</RAZ_ArtDescription_Play.rulePack.rulesStrings.158>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.159>worldDescription->rogue</RAZ_ArtDescription_Play.rulePack.rulesStrings.159>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.160>worldDescription->mysterious</RAZ_ArtDescription_Play.rulePack.rulesStrings.160>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.161>worldDescription->lost</RAZ_ArtDescription_Play.rulePack.rulesStrings.161>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.162>worldDescription->beautiful</RAZ_ArtDescription_Play.rulePack.rulesStrings.162>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.163>worldDescription->dystopian</RAZ_ArtDescription_Play.rulePack.rulesStrings.163>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.164>worldDescription->portentous</RAZ_ArtDescription_Play.rulePack.rulesStrings.164>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.165>worldDescription->strange</RAZ_ArtDescription_Play.rulePack.rulesStrings.165>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.166>worldDescription->fractured</RAZ_ArtDescription_Play.rulePack.rulesStrings.166>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.167>worldDescription->cursed</RAZ_ArtDescription_Play.rulePack.rulesStrings.167>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.168>spaceLocation->an asteroid belt</RAZ_ArtDescription_Play.rulePack.rulesStrings.168>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.169>spaceLocation->deep space</RAZ_ArtDescription_Play.rulePack.rulesStrings.169>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.170>spaceLocation->a nebula</RAZ_ArtDescription_Play.rulePack.rulesStrings.170>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.171>spaceLocation->a stellar nursery</RAZ_ArtDescription_Play.rulePack.rulesStrings.171>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.172>spaceLocation->a dark matter system</RAZ_ArtDescription_Play.rulePack.rulesStrings.172>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.173>spaceLocation->a cosmic string</RAZ_ArtDescription_Play.rulePack.rulesStrings.173>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.174>spaceLocation->a parallel universe</RAZ_ArtDescription_Play.rulePack.rulesStrings.174>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.175>worldLocationType->city</RAZ_ArtDescription_Play.rulePack.rulesStrings.175>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.176>worldLocationType->desert</RAZ_ArtDescription_Play.rulePack.rulesStrings.176>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.177>worldLocationType->ruin</RAZ_ArtDescription_Play.rulePack.rulesStrings.177>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.178>worldLocationType->mountainside</RAZ_ArtDescription_Play.rulePack.rulesStrings.178>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.179>worldLocationType->kitchen</RAZ_ArtDescription_Play.rulePack.rulesStrings.179>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.180>worldLocationType->bar</RAZ_ArtDescription_Play.rulePack.rulesStrings.180>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.181>worldLocationType->home</RAZ_ArtDescription_Play.rulePack.rulesStrings.181>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.182>worldLocationType->barrack</RAZ_ArtDescription_Play.rulePack.rulesStrings.182>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.183>worldLocationType->municipality</RAZ_ArtDescription_Play.rulePack.rulesStrings.183>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.184>worldLocationType->government building</RAZ_ArtDescription_Play.rulePack.rulesStrings.184>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.185>secondSentencePart-> through the [characterInteraction] of its characters, a [characterType] and a [characterType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.185>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.186>secondSentencePart-> through the [imageAdj] image of [imageType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.186>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.187>secondSentencePart-> through its use of [languageType] and [meterType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.187>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.188>characterInteraction->friendship</RAZ_ArtDescription_Play.rulePack.rulesStrings.188>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.189>characterInteraction->blooming romance</RAZ_ArtDescription_Play.rulePack.rulesStrings.189>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.190>characterInteraction->juxtaposition</RAZ_ArtDescription_Play.rulePack.rulesStrings.190>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.191>characterInteraction->antagonism</RAZ_ArtDescription_Play.rulePack.rulesStrings.191>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.192>characterInteraction->rivalry</RAZ_ArtDescription_Play.rulePack.rulesStrings.192>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.193>characterInteraction->hostility, then mutual respect</RAZ_ArtDescription_Play.rulePack.rulesStrings.193>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.194>characterInteraction->secret affair</RAZ_ArtDescription_Play.rulePack.rulesStrings.194>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.195>characterInteraction->comedic misunderstandings</RAZ_ArtDescription_Play.rulePack.rulesStrings.195>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.196>characterInteraction->creeping embitterment</RAZ_ArtDescription_Play.rulePack.rulesStrings.196>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.197>characterType->raider</RAZ_ArtDescription_Play.rulePack.rulesStrings.197>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.198>characterType->tribesperson</RAZ_ArtDescription_Play.rulePack.rulesStrings.198>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.199>characterType->colonist</RAZ_ArtDescription_Play.rulePack.rulesStrings.199>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.200>characterType->pirate</RAZ_ArtDescription_Play.rulePack.rulesStrings.200>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.201>characterType->textiles trader</RAZ_ArtDescription_Play.rulePack.rulesStrings.201>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.202>characterType->traveller</RAZ_ArtDescription_Play.rulePack.rulesStrings.202>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.203>characterType->muffalo herder</RAZ_ArtDescription_Play.rulePack.rulesStrings.203>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.204>characterType->thrumbo charmer</RAZ_ArtDescription_Play.rulePack.rulesStrings.204>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.205>characterType->boomrat messiah</RAZ_ArtDescription_Play.rulePack.rulesStrings.205>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.206>characterType->boomalope trainer</RAZ_ArtDescription_Play.rulePack.rulesStrings.206>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.207>characterType->shaman</RAZ_ArtDescription_Play.rulePack.rulesStrings.207>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.208>characterType->wandering player</RAZ_ArtDescription_Play.rulePack.rulesStrings.208>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.209>characterType->devilstrand farmer</RAZ_ArtDescription_Play.rulePack.rulesStrings.209>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.210>characterType->megatherum rider</RAZ_ArtDescription_Play.rulePack.rulesStrings.210>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.211>characterType->vatgrown soldier</RAZ_ArtDescription_Play.rulePack.rulesStrings.211>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.212>characterType->scientist</RAZ_ArtDescription_Play.rulePack.rulesStrings.212>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.213>characterType->slave</RAZ_ArtDescription_Play.rulePack.rulesStrings.213>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.214>imageAdj->repeated</RAZ_ArtDescription_Play.rulePack.rulesStrings.214>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.215>imageAdj->haunting</RAZ_ArtDescription_Play.rulePack.rulesStrings.215>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.216>imageAdj->blunt</RAZ_ArtDescription_Play.rulePack.rulesStrings.216>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.217>imageAdj->unnerving</RAZ_ArtDescription_Play.rulePack.rulesStrings.217>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.218>imageAdj->subtle</RAZ_ArtDescription_Play.rulePack.rulesStrings.218>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.219>imageAdj->dadaesque</RAZ_ArtDescription_Play.rulePack.rulesStrings.219>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.220>imageAdj->dark</RAZ_ArtDescription_Play.rulePack.rulesStrings.220>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.221>imageType->a [animalType] [animalDoing].</RAZ_ArtDescription_Play.rulePack.rulesStrings.221>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.222>imageType->a [objectAdj] [objectMaterial] [objectType]</RAZ_ArtDescription_Play.rulePack.rulesStrings.222>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.223>animalType->thrumbo</RAZ_ArtDescription_Play.rulePack.rulesStrings.223>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.224>animalType->muffalo</RAZ_ArtDescription_Play.rulePack.rulesStrings.224>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.225>animalType->wolf</RAZ_ArtDescription_Play.rulePack.rulesStrings.225>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.226>animalType->fox</RAZ_ArtDescription_Play.rulePack.rulesStrings.226>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.227>animalType->boomrat</RAZ_ArtDescription_Play.rulePack.rulesStrings.227>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.228>animalType->boomalope</RAZ_ArtDescription_Play.rulePack.rulesStrings.228>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.229>animalType->megatherum</RAZ_ArtDescription_Play.rulePack.rulesStrings.229>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.230>animalType->cat</RAZ_ArtDescription_Play.rulePack.rulesStrings.230>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.231>animalType->swan</RAZ_ArtDescription_Play.rulePack.rulesStrings.231>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.232>animalType->puffin</RAZ_ArtDescription_Play.rulePack.rulesStrings.232>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.233>animalType->penguin</RAZ_ArtDescription_Play.rulePack.rulesStrings.233>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.234>animalType->vatgrown gamma</RAZ_ArtDescription_Play.rulePack.rulesStrings.234>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.235>animalType->roomba</RAZ_ArtDescription_Play.rulePack.rulesStrings.235>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.236>animalType->warg</RAZ_ArtDescription_Play.rulePack.rulesStrings.236>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.237>animalDoing->lying on the ground</RAZ_ArtDescription_Play.rulePack.rulesStrings.237>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.238>animalDoing->consuming a [object]</RAZ_ArtDescription_Play.rulePack.rulesStrings.238>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.239>animalDoing->wailing</RAZ_ArtDescription_Play.rulePack.rulesStrings.239>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.240>animalDoing->dying</RAZ_ArtDescription_Play.rulePack.rulesStrings.240>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.241>animalDoing->drowning</RAZ_ArtDescription_Play.rulePack.rulesStrings.241>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.242>animalDoing->burning</RAZ_ArtDescription_Play.rulePack.rulesStrings.242>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.243>animalDoing->watching</RAZ_ArtDescription_Play.rulePack.rulesStrings.243>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.244>animalDoing->interminably waiting</RAZ_ArtDescription_Play.rulePack.rulesStrings.244>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.245>objectAdj->broken</RAZ_ArtDescription_Play.rulePack.rulesStrings.245>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.246>objectAdj->large</RAZ_ArtDescription_Play.rulePack.rulesStrings.246>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.247>objectAdj->cartoonish</RAZ_ArtDescription_Play.rulePack.rulesStrings.247>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.248>objectAdj->painted</RAZ_ArtDescription_Play.rulePack.rulesStrings.248>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.249>objectAdj->frozen</RAZ_ArtDescription_Play.rulePack.rulesStrings.249>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.250>objectAdj->stolen</RAZ_ArtDescription_Play.rulePack.rulesStrings.250>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.251>objectMaterial->gold</RAZ_ArtDescription_Play.rulePack.rulesStrings.251>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.252>objectMaterial->silver</RAZ_ArtDescription_Play.rulePack.rulesStrings.252>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.253>objectMaterial->steel</RAZ_ArtDescription_Play.rulePack.rulesStrings.253>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.254>objectMaterial->bronze</RAZ_ArtDescription_Play.rulePack.rulesStrings.254>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.255>objectMaterial->plasteel</RAZ_ArtDescription_Play.rulePack.rulesStrings.255>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.256>objectMaterial->uranium</RAZ_ArtDescription_Play.rulePack.rulesStrings.256>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.257>objectMaterial->tantalum</RAZ_ArtDescription_Play.rulePack.rulesStrings.257>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.258>objectMaterial->titanium</RAZ_ArtDescription_Play.rulePack.rulesStrings.258>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.259>objectMaterial->stone</RAZ_ArtDescription_Play.rulePack.rulesStrings.259>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.260>objectMaterial->copper</RAZ_ArtDescription_Play.rulePack.rulesStrings.260>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.261>objectMaterial->plastic</RAZ_ArtDescription_Play.rulePack.rulesStrings.261>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.262>objectType->rifle</RAZ_ArtDescription_Play.rulePack.rulesStrings.262>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.263>objectType->shield</RAZ_ArtDescription_Play.rulePack.rulesStrings.263>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.264>objectType->bed</RAZ_ArtDescription_Play.rulePack.rulesStrings.264>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.265>objectType->pistol</RAZ_ArtDescription_Play.rulePack.rulesStrings.265>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.266>objectType->plant pot</RAZ_ArtDescription_Play.rulePack.rulesStrings.266>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.267>objectType->statue</RAZ_ArtDescription_Play.rulePack.rulesStrings.267>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.268>objectType->mask</RAZ_ArtDescription_Play.rulePack.rulesStrings.268>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.269>objectType->helmet</RAZ_ArtDescription_Play.rulePack.rulesStrings.269>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.270>objectType->hammer</RAZ_ArtDescription_Play.rulePack.rulesStrings.270>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.271>objectType->sword</RAZ_ArtDescription_Play.rulePack.rulesStrings.271>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.272>languageType->speedy worldplay</RAZ_ArtDescription_Play.rulePack.rulesStrings.272>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.273>languageType->purple prose</RAZ_ArtDescription_Play.rulePack.rulesStrings.273>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.274>languageType->flowery prose</RAZ_ArtDescription_Play.rulePack.rulesStrings.274>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.275>languageType->lyrical text</RAZ_ArtDescription_Play.rulePack.rulesStrings.275>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.276>languageType->endless monologuing</RAZ_ArtDescription_Play.rulePack.rulesStrings.276>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.277>languageType->stiled, naturalistic conversation</RAZ_ArtDescription_Play.rulePack.rulesStrings.277>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.278>languageType->unexpected silence</RAZ_ArtDescription_Play.rulePack.rulesStrings.278>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.279>meterType->blank verse</RAZ_ArtDescription_Play.rulePack.rulesStrings.279>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.280>meterType->rhythmic, punchy dialogue</RAZ_ArtDescription_Play.rulePack.rulesStrings.280>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.281>meterType->patter songs</RAZ_ArtDescription_Play.rulePack.rulesStrings.281>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.282>meterType->trochaic meter</RAZ_ArtDescription_Play.rulePack.rulesStrings.282>
+  <RAZ_ArtDescription_Play.rulePack.rulesStrings.283>meterType->dactylic form</RAZ_ArtDescription_Play.rulePack.rulesStrings.283>
+
+
+</LanguageData>

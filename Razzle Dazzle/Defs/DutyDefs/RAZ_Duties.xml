@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DutyDef>
+    <defName>PrepareConcert</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <!--Get the sheet music-->
+        <li Class="RazzleDazzle.JobGiver_PrepareConcert" />
+        
+        <!-- Goto where I put the sheet music!-->
+        <li Class="JobGiver_GotoTravelDestination">
+          <exactCell>true</exactCell>
+          <locomotionUrgency>Jog</locomotionUrgency>
+        </li>
+        
+        <!-- Arrived -->
+        <li Class="ThinkNode_ConditionalAtDutyLocation">
+          <subNodes>
+            <!-- Wait for the concert to start-->
+            <li Class="JobGiver_Idle">
+              <ticks>50</ticks>
+            </li>
+          </subNodes>
+        </li>
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+  
+  <DutyDef>
+    <defName>PerformConcert</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="RazzleDazzle.JobGiver_PerformMusic" />
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+  
+  <DutyDef>
+    <defName>PerformComedy</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="RazzleDazzle.JobGiver_PerformComedy" />
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+  
+  <DutyDef>
+    <defName>GoToStageAndWait</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <!-- Goto stage -->
+        <li Class="JobGiver_GotoTravelDestination">
+          <exactCell>true</exactCell>
+          <locomotionUrgency>Jog</locomotionUrgency>
+        </li>
+        
+        <!-- Arrived -->
+        <li Class="ThinkNode_ConditionalAtDutyLocation">
+          <subNodes>            
+            <!-- Wait for the play to begin -->
+            <li Class="JobGiver_Idle">
+              <ticks>50</ticks>
+            </li>
+          </subNodes>
+        </li>
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+  
+  <DutyDef>
+    <defName>FindSeatWithStageViewAndChat</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <!-- Find a chair -->
+        <li Class="RazzleDazzle.JobGiver_FindChairIfNotInOne"></li>
+        
+        <!-- If in a chair, chat -->
+        <li Class="JobGiver_StandAndBeSociallyActive">
+          <ticksRange>
+            <min>250</min>
+            <max>500</max>
+          </ticksRange>
+        </li>
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+  
+  <DutyDef>
+    <defName>PerformPlay</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="RazzleDazzle.JobGiver_PerformPlay" />
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+  
+  <DutyDef>
+    <defName>WatchPlayQuietly</defName>
+    <socialModeMax>Off</socialModeMax>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="RazzleDazzle.JobGiver_FaceObject">
+           <ticks>500</ticks>
+        </li>
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+</Defs>

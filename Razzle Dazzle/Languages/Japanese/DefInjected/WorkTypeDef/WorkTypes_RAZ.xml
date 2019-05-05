@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Performance.label>演芸</Performance.label>
+  <Performance.description>演芸家は演劇、コンサート、ギグを催して公演を楽しみます。</Performance.description>
+  <Performance.labelShort>演芸</Performance.labelShort>
+  <Performance.pawnLabel>演芸者</Performance.pawnLabel>
+  <Performance.gerundLabel>上演する</Performance.gerundLabel>
+  <Performance.verb>上演</Performance.verb>
+
+
+</LanguageData>

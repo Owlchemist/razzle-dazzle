@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="ResourceBase">
+		<defName>RAZ_Play</defName>
+		<label>play</label>
+		<description>A play written by a colonist.</description>
+		<graphicData>
+			<texPath>Things/Items/RAZ_Play</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<resourceReadoutPriority>First</resourceReadoutPriority>
+		<soundInteract>Wood_Drop</soundInteract>
+		<soundDrop>Wood_Drop</soundDrop>
+		<statBases>
+			<WorkToMake>25000</WorkToMake>
+			<MarketValue>500</MarketValue>
+			<Flammability>1.0</Flammability>
+			<Mass>0.1</Mass>
+			<MaxHitPoints>20</MaxHitPoints>
+		</statBases>
+		<thingCategories>
+			<li>BuildingsArt</li>
+		</thingCategories>
+		<stackLimit>1</stackLimit>
+		<comps>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>    
+			<li Class="CompProperties_Art">
+				<nameMaker>RAZ_ArtName_Play</nameMaker>
+				<descriptionMaker>RAZ_ArtDescription_Play</descriptionMaker>
+			</li>
+		</comps>
+		<tradeability>Sellable</tradeability>
+		<inspectorTabs>
+			<li>ITab_Art</li>
+		</inspectorTabs>
+	</ThingDef>
+	
+	<ThingDef ParentName="UnfinishedBase">
+		<defName>RAZ_UnfinishedPlay</defName>
+		<label>unfinished play</label>
+		<description>half-written. half-baked.</description>
+		<graphicData>
+			<texPath>Things/Items/RAZ_UnfinishedPlay</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stuffCategories />
+	</ThingDef>
+	
+	<ThingDef ParentName="UnfinishedBase">
+		<defName>RAZ_UnfinishedMusic</defName>
+		<label>unfinished music</label>
+		<graphicData>
+			<texPath>Things/Items/RAZ_UnfinishedMusic</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stuffCategories />
+	</ThingDef>
+	
+	<ThingDef ParentName="ResourceBase">
+		<defName>RAZ_Composition</defName>
+		<label>composition</label>
+		<description>A composition written by a colonist.</description>
+		<graphicData>
+			<texPath>Things/Items/RAZ_SheetMusic</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<resourceReadoutPriority>First</resourceReadoutPriority>
+		<soundInteract>Wood_Drop</soundInteract>
+		<soundDrop>Wood_Drop</soundDrop>
+		<statBases>
+			<WorkToMake>20000</WorkToMake>
+			<MarketValue>300</MarketValue>
+			<Flammability>1.0</Flammability>
+			<Mass>0.1</Mass>
+			<MaxHitPoints>20</MaxHitPoints>
+		</statBases>
+		<thingCategories>
+			<li>BuildingsArt</li>
+		</thingCategories>
+		<stackLimit>1</stackLimit>
+		<comps>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>    
+			<li Class="CompProperties_Art">
+				<nameMaker>RAZ_ArtName_Composition</nameMaker>
+				<descriptionMaker>RAZ_ArtDescription_Composition</descriptionMaker>
+			</li>
+		</comps>
+		<tradeability>Sellable</tradeability>
+		<inspectorTabs>
+			<li>ITab_Art</li>
+		</inspectorTabs>
+	</ThingDef>
+</Defs>

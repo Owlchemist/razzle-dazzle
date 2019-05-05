@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PerformedPlay.label>performed play</PerformedPlay.label>
+  <PerformedPlay.rulePack.rulesStrings.0>tale_noun->[lead_nameFull] and [support_nameFull]'s renouned performance</PerformedPlay.rulePack.rulesStrings.0>
+  <PerformedPlay.rulePack.rulesStrings.1>image->[lead_nameShortDef] and [support_nameShortDef] frolicking on stage [circumstance_group].</PerformedPlay.rulePack.rulesStrings.1>
+  <PerformedPlay.rulePack.rulesStrings.2>image->[lead_nameShortDef] and [support_nameShortDef] frolicking on stage [circumstance_group].</PerformedPlay.rulePack.rulesStrings.2>
+  <PerformedPlay.rulePack.rulesStrings.3>image->[lead_nameShortDef] gazing into the abyss of the human soul whilst [support_nameShortDef] dances, holiding a steady look of ennui [circumstance_group].</PerformedPlay.rulePack.rulesStrings.3>
+  <PerformedPlay.rulePack.rulesStrings.4>image->[lead_nameShortDef] and [support_nameShortDef] gazing with love at each other from across the stage [circumstance_group].</PerformedPlay.rulePack.rulesStrings.4>
+  <PerformedPlay.rulePack.rulesStrings.5>image->[support_nameShortDef] fluffing [support_possessive] line as [lead_nameShortDef] looks on distainfully [circumstance_group]</PerformedPlay.rulePack.rulesStrings.5>
+  <PerformedPlay.rulePack.rulesStrings.6>image->[lead_nameShortDef] quickly covering up as [support_nameShortDef] fluffs [support_possessive] line [circumstance_group]</PerformedPlay.rulePack.rulesStrings.6>
+  <PerformedPlay.rulePack.rulesStrings.7>image->[lead_nameShortDef] quickly covering up as [support_nameShortDef] fluffs [support_possessive] line [circumstance_group]</PerformedPlay.rulePack.rulesStrings.7>
+  <PerformedPlay.rulePack.rulesStrings.8>image->[lead_nameShortDef] delivering a tearful soliloquy as [support_nameShortDef] gazes on adoringly [circumstance_group]</PerformedPlay.rulePack.rulesStrings.8>
+  <PerformedPlay.rulePack.rulesStrings.9>image->[lead_nameShortDef] delivering a tearful soliloquy as [support_nameShortDef] gazes on adoringly [circumstance_group]</PerformedPlay.rulePack.rulesStrings.9>
+  <PerformedPlay.rulePack.rulesStrings.10>image->[lead_nameShortDef] yelling a rousing battlecry from a different play, while [support_nameShortDef] picks the petals from a rose one at a time [circumstance_group]</PerformedPlay.rulePack.rulesStrings.10>
+  <PerformedPlay.rulePack.rulesStrings.11>circumstance_phrase->as the scenery wobbles precariously</PerformedPlay.rulePack.rulesStrings.11>
+  <PerformedPlay.rulePack.rulesStrings.12>circumstance_phrase->to the uproarious cheering of the audience</PerformedPlay.rulePack.rulesStrings.12>
+  <PerformedPlay.rulePack.rulesStrings.13>circumstance_phrase->whilst the stage trapdoor malfunctions</PerformedPlay.rulePack.rulesStrings.13>
+  <PerformedPlay.rulePack.rulesStrings.14>circumstance_phrase->whilst the audience stare in rapt silence.</PerformedPlay.rulePack.rulesStrings.14>
+  <PerformedPlay.rulePack.rulesStrings.15>circumstance_phrase->, both ignoring the muffalo that someone let in with great professionalism</PerformedPlay.rulePack.rulesStrings.15>
+  <PerformedPlay.rulePack.rulesStrings.16>circumstance_phrase->, with each wearing the other's costume due to a stage management error</PerformedPlay.rulePack.rulesStrings.16>
+  <PerformedPlay.rulePack.rulesStrings.17>desc_sentence->[lead_nameShortDef] has let a single tear roll down [lead_possessive] cheek</PerformedPlay.rulePack.rulesStrings.17>
+  <PerformedPlay.rulePack.rulesStrings.18>desc_sentence->[lead_nameShortDef]'s costume has been torn in a moment of passion</PerformedPlay.rulePack.rulesStrings.18>
+  <PerformedPlay.rulePack.rulesStrings.19>desc_sentence->[lead_nameShortDef]'s stance is bold, and unapologetic.</PerformedPlay.rulePack.rulesStrings.19>
+  <PerformedPlay.rulePack.rulesStrings.20>desc_sentence->[support_nameShortDef] is trying to upstage [lead_nameStringShort] with flamoboyant gestures.</PerformedPlay.rulePack.rulesStrings.20>
+
+  <PerformedMusic.label>performed music</PerformedMusic.label>
+  <PerformedMusic.rulePack.rulesStrings.0>tale_noun->[pawn_nameFull]'s concert performance.</PerformedMusic.rulePack.rulesStrings.0>
+  <PerformedMusic.rulePack.rulesStrings.1>image->[pawn_nameShortDef] playing the piano [circumstance_group]</PerformedMusic.rulePack.rulesStrings.1>
+  <PerformedMusic.rulePack.rulesStrings.2>image->[pawn_nameShortDef] hammering the piano keys forcefully [circumstance_group]</PerformedMusic.rulePack.rulesStrings.2>
+  <PerformedMusic.rulePack.rulesStrings.3>image->[pawn_nameShortDef] sending the sheet music flying [circumstance_group]</PerformedMusic.rulePack.rulesStrings.3>
+  <PerformedMusic.rulePack.rulesStrings.4>image->[pawn_nameShortDef] gently switching between movements [circumstance_group]</PerformedMusic.rulePack.rulesStrings.4>
+  <PerformedMusic.rulePack.rulesStrings.5>circumstance_phrase->while the audience watch in silent appreciation</PerformedMusic.rulePack.rulesStrings.5>
+  <PerformedMusic.rulePack.rulesStrings.6>circumstance_phrase->as the audience applaud the skilled performance</PerformedMusic.rulePack.rulesStrings.6>
+  <PerformedMusic.rulePack.rulesStrings.7>circumstance_phrase->as the lively audience sing along tunelessly</PerformedMusic.rulePack.rulesStrings.7>
+  <PerformedMusic.rulePack.rulesStrings.8>desc_sentence->[pawn_pronoun] plays with [pawn_possessive] eyes closed, apparently unaware of what is around [pawn_objective].</PerformedMusic.rulePack.rulesStrings.8>
+  <PerformedMusic.rulePack.rulesStrings.9>desc_sentence->[pawn_possessive] expression is one of passion and determination.</PerformedMusic.rulePack.rulesStrings.9>
+  <PerformedMusic.rulePack.rulesStrings.10>desc_sentence->[pawn_pronoun] plays with a rhythm and a force that is frightening.</PerformedMusic.rulePack.rulesStrings.10>
+  <PerformedMusic.rulePack.rulesStrings.11>desc_sentence->[pawn_pronoun] has begun weeping gently.</PerformedMusic.rulePack.rulesStrings.11>
+  <PerformedMusic.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] is depicted with [pawn_possessive] arms raised high above the keys, ready to strike with force.</PerformedMusic.rulePack.rulesStrings.12>
+  <PerformedMusic.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is rendered with an unimaginative halo of musical notes.</PerformedMusic.rulePack.rulesStrings.13>
+  <PerformedMusic.rulePack.rulesStrings.14>desc_sentence->A [animal] peeks out from inside the piano.</PerformedMusic.rulePack.rulesStrings.14>
+
+  <PerformedComedy.label>performed comedy</PerformedComedy.label>
+  <PerformedComedy.rulePack.rulesStrings.0>tale_noun->[pawn_nameFull]'s stand-up act.</PerformedComedy.rulePack.rulesStrings.0>
+  <PerformedComedy.rulePack.rulesStrings.1>tale_noun->[pawn_nameFull]'s performance poetry evening.</PerformedComedy.rulePack.rulesStrings.1>
+  <PerformedComedy.rulePack.rulesStrings.2>image->[pawn_nameShortDef] delivering a witty line [circumstance_group]</PerformedComedy.rulePack.rulesStrings.2>
+  <PerformedComedy.rulePack.rulesStrings.3>image->[pawn_nameShortDef] dropping in a perfectly constructed malapropism [circumstance_group]</PerformedComedy.rulePack.rulesStrings.3>
+  <PerformedComedy.rulePack.rulesStrings.4>image->[pawn_nameShortDef] overcome with stage fright [circumstance_group]</PerformedComedy.rulePack.rulesStrings.4>
+  <PerformedComedy.rulePack.rulesStrings.5>image->[pawn_nameShortDef] picking on an audience member [circumstance_group]</PerformedComedy.rulePack.rulesStrings.5>
+  <PerformedComedy.rulePack.rulesStrings.6>circumstance_phrase->to a thunder of applause</PerformedComedy.rulePack.rulesStrings.6>
+  <PerformedComedy.rulePack.rulesStrings.7>circumstance_phrase->as those watching are overcome with paroxysms of laughter </PerformedComedy.rulePack.rulesStrings.7>
+  <PerformedComedy.rulePack.rulesStrings.8>circumstance_phrase->as the audience watch, baffled</PerformedComedy.rulePack.rulesStrings.8>
+  <PerformedComedy.rulePack.rulesStrings.9>desc_sentence->[pawn_nameShortDef] clings to the microphone as though [pawn_possessive] life depended on it.</PerformedComedy.rulePack.rulesStrings.9>
+  <PerformedComedy.rulePack.rulesStrings.10>desc_sentence->[pawn_nameShortDef] is swinging the microphone around like a weapon.</PerformedComedy.rulePack.rulesStrings.10>
+  <PerformedComedy.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] is grinning wildly.</PerformedComedy.rulePack.rulesStrings.11>
+  <PerformedComedy.rulePack.rulesStrings.12>desc_sentence->[pawn_pronoun] is weeping, while several [animal]s wander in unexpectedly.</PerformedComedy.rulePack.rulesStrings.12>
+  <PerformedComedy.rulePack.rulesStrings.13>desc_sentence->[pawn_pronoun] is rendered with an extra face on the back of [pawn_possessive] head, which is wearing an expression of self-doubt.</PerformedComedy.rulePack.rulesStrings.13>
+  <PerformedComedy.rulePack.rulesStrings.14>desc_sentence->[pawn_pronoun] is depicted with the voice sof the other colonists orbiting [pawn_pronoun] head.</PerformedComedy.rulePack.rulesStrings.14>
+
+
+</LanguageData>

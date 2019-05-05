@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RAZ_StagePlay.label>演劇脚本を演じる</RAZ_StagePlay.label>
+  <RAZ_StagePlay.description>あなたの入植者によって書かれた、または買った演劇脚本を演じます。</RAZ_StagePlay.description>
+  <RAZ_StagePlay.jobString>演劇脚本を演技中</RAZ_StagePlay.jobString>
+
+  <RAZ_WritePlay.label>演劇脚本を書く</RAZ_WritePlay.label>
+  <RAZ_WritePlay.description>ステージのための演劇的な作品を書く</RAZ_WritePlay.description>
+  <RAZ_WritePlay.jobString>演劇脚本を執筆中</RAZ_WritePlay.jobString>
+
+  <RAZ_ComposeMusic.label>音楽を作曲</RAZ_ComposeMusic.label>
+  <RAZ_ComposeMusic.description>音楽を作曲する。</RAZ_ComposeMusic.description>
+  <RAZ_ComposeMusic.jobString>音楽を作曲中</RAZ_ComposeMusic.jobString>
+
+  <BurnPerformance.label>演劇脚本を焼却</BurnPerformance.label>
+  <BurnPerformance.description>演劇脚本を焼却します。</BurnPerformance.description>
+  <BurnPerformance.jobString>焼却中</BurnPerformance.jobString>
+
+
+</LanguageData>

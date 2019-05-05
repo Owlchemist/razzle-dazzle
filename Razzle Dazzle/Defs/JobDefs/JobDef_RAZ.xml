@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<JobDef>
+		<defName>JobDef_Rehearse</defName>
+		<driverClass>RazzleDazzle.JobDriver_Rehearse</driverClass>
+		<reportString>Rehearsing on TargetA.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_DoStartRehearsalDirectly</defName>
+		<driverClass>RazzleDazzle.JobDriver_StartRehearseDirectly</driverClass>
+		<reportString>Rehearsing on TargetA.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_PerformPlay</defName>
+		<driverClass>RazzleDazzle.JobDriver_PerformPlay</driverClass>
+		<reportString>Performing play.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_DoRehearsePlayBill</defName>
+		<driverClass>RazzleDazzle.JobDriver_DoRehearsePlayBill</driverClass>
+		<reportString>Staging a play.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_PrepareConcert</defName>
+		<driverClass>RazzleDazzle.JobDriver_PrepareConcert</driverClass>
+		<reportString>Preparing for concert.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_PerformMusic</defName>
+		<driverClass>RazzleDazzle.JobDriver_PerformMusic</driverClass>
+		<reportString>Playing music.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_PerformComedy</defName>
+		<driverClass>RazzleDazzle.JobDriver_PerformComedy</driverClass>
+		<reportString>Performing stand-up.</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<JobDef>
+		<defName>JobDef_FaceObject</defName>
+		<driverClass>RazzleDazzle.JobDriver_FaceObject</driverClass>
+		<reportString>Woo!</reportString>
+		<alwaysShowWeapon>false</alwaysShowWeapon>
+	</JobDef>
+	
+	<!-- JOY JOBS -->
+	<JobDef>
+		<defName>MuckAroundOnStage</defName>
+		<driverClass>RazzleDazzle.JobDriver_MuckAroundOnStage</driverClass>
+		<reportString>Mucking about.</reportString>
+		<joyDuration>4000</joyDuration>
+		<joyMaxParticipants>3</joyMaxParticipants>
+		<joySkill>Social</joySkill>
+		<joyXpPerTick>0.2</joyXpPerTick>
+		<joyGainRate>1</joyGainRate>
+		<joyKind>Social</joyKind>
+	</JobDef>
+	
+	<JobDef>
+		<defName>NoodleOnPiano</defName>
+		<driverClass>RazzleDazzle.JobDriver_NoodleOnPiano</driverClass>
+		<reportString>Noodling on the piano.</reportString>
+		<joyDuration>4000</joyDuration>
+		<joyMaxParticipants>2</joyMaxParticipants>
+		<joySkill>Social</joySkill>
+		<joyXpPerTick>0.2</joyXpPerTick>
+		<joyGainRate>1</joyGainRate>
+		<joyKind>Meditative</joyKind>
+	</JobDef>
+</Defs>

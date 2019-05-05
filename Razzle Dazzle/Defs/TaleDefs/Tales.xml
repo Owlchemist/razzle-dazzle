@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TaleDef>
+    <defName>PerformedPlay</defName>
+    <label>performed play</label>
+    <taleClass>Tale_DoublePawn</taleClass>
+    <type>Volatile</type>
+    <baseInterest>2</baseInterest>
+    <ignoreChance>0.35</ignoreChance>
+    <firstPawnSymbol>lead</firstPawnSymbol>
+    <secondPawnSymbol>support</secondPawnSymbol>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->[lead_nameFull] and [support_nameFull]'s renouned performance</li>
+        <li>image->[lead_nameShortDef] and [support_nameShortDef] frolicking on stage [circumstance_group].</li>
+        <li>image->[lead_nameShortDef] and [support_nameShortDef] frolicking on stage [circumstance_group].</li>
+        <li>image->[lead_nameShortDef] gazing into the abyss of the human soul whilst [support_nameShortDef] dances, holiding a steady look of ennui [circumstance_group].</li>
+        <li>image->[lead_nameShortDef] and [support_nameShortDef] gazing with love at each other from across the stage [circumstance_group].</li>
+        <li>image->[support_nameShortDef] fluffing [support_possessive] line as [lead_nameShortDef] looks on distainfully [circumstance_group]</li>
+        <li>image->[lead_nameShortDef] quickly covering up as [support_nameShortDef] fluffs [support_possessive] line [circumstance_group]</li>
+        <li>image->[lead_nameShortDef] quickly covering up as [support_nameShortDef] fluffs [support_possessive] line [circumstance_group]</li>
+        <li>image->[lead_nameShortDef] delivering a tearful soliloquy as [support_nameShortDef] gazes on adoringly [circumstance_group]</li>
+        <li>image->[lead_nameShortDef] delivering a tearful soliloquy as [support_nameShortDef] gazes on adoringly [circumstance_group]</li>
+        <li>image->[lead_nameShortDef] yelling a rousing battlecry from a different play, while [support_nameShortDef] picks the petals from a rose one at a time [circumstance_group]</li>
+        <li>circumstance_phrase->as the scenery wobbles precariously</li>
+        <li>circumstance_phrase->to the uproarious cheering of the audience</li>
+        <li>circumstance_phrase->whilst the stage trapdoor malfunctions</li>
+        <li>circumstance_phrase->whilst the audience stare in rapt silence.</li>
+        <li>circumstance_phrase->, both ignoring the muffalo that someone let in with great professionalism</li>
+        <li>circumstance_phrase->, with each wearing the other's costume due to a stage management error</li>
+        <li>desc_sentence->[lead_nameShortDef] has let a single tear roll down [lead_possessive] cheek</li>
+        <li>desc_sentence->[lead_nameShortDef]'s costume has been torn in a moment of passion</li>
+        <li>desc_sentence->[lead_nameShortDef]'s stance is bold, and unapologetic.</li>
+        <li>desc_sentence->[support_nameShortDef] is trying to upstage [lead_nameStringShort] with flamoboyant gestures.</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+  
+  <TaleDef>
+    <defName>PerformedMusic</defName>
+    <label>performed music</label>
+    <taleClass>Tale_SinglePawn</taleClass>
+    <type>Volatile</type>
+    <baseInterest>2</baseInterest>
+    <ignoreChance>0.35</ignoreChance>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->[pawn_nameFull]'s concert performance.</li>
+        <li>image->[pawn_nameShortDef] playing the piano [circumstance_group]</li>
+        <li>image->[pawn_nameShortDef] hammering the piano keys forcefully [circumstance_group]</li>
+        <li>image->[pawn_nameShortDef] sending the sheet music flying [circumstance_group]</li>
+        <li>image->[pawn_nameShortDef] gently switching between movements [circumstance_group]</li>
+        <li>circumstance_phrase->while the audience watch in silent appreciation</li>
+        <li>circumstance_phrase->as the audience applaud the skilled performance</li>
+        <li>circumstance_phrase->as the lively audience sing along tunelessly</li>
+        <li>desc_sentence->[pawn_pronoun] plays with [pawn_possessive] eyes closed, apparently unaware of what is around [pawn_objective].</li>
+        <li>desc_sentence->[pawn_possessive] expression is one of passion and determination.</li>
+        <li>desc_sentence->[pawn_pronoun] plays with a rhythm and a force that is frightening.</li>
+        <li>desc_sentence->[pawn_pronoun] has begun weeping gently.</li>
+        <li>desc_sentence->[pawn_pronoun] is depicted with [pawn_possessive] arms raised high above the keys, ready to strike with force.</li>
+        <li>desc_sentence->[pawn_pronoun] is rendered with an unimaginative halo of musical notes.</li>
+        <li>desc_sentence->A [animal] peeks out from inside the piano.</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+  
+  <TaleDef>
+    <defName>PerformedComedy</defName>
+    <label>performed comedy</label>
+    <taleClass>Tale_SinglePawn</taleClass>
+    <type>Volatile</type>
+    <baseInterest>1.5</baseInterest>
+    <ignoreChance>0.4</ignoreChance>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->[pawn_nameFull]'s stand-up act.</li>
+        <li>tale_noun->[pawn_nameFull]'s performance poetry evening.</li>
+        <li>image->[pawn_nameShortDef] delivering a witty line [circumstance_group]</li>
+        <li>image->[pawn_nameShortDef] dropping in a perfectly constructed malapropism [circumstance_group]</li>
+        <li>image->[pawn_nameShortDef] overcome with stage fright [circumstance_group]</li>
+        <li>image->[pawn_nameShortDef] picking on an audience member [circumstance_group]</li>
+        <li>circumstance_phrase->to a thunder of applause</li>
+        <li>circumstance_phrase->as those watching are overcome with paroxysms of laughter </li>
+        <li>circumstance_phrase->as the audience watch, baffled</li>
+        <li>desc_sentence->[pawn_nameShortDef] clings to the microphone as though [pawn_possessive] life depended on it.</li>
+        <li>desc_sentence->[pawn_nameShortDef] is swinging the microphone around like a weapon.</li>
+        <li>desc_sentence->[pawn_nameShortDef] is grinning wildly.</li>
+        <li>desc_sentence->[pawn_pronoun] is weeping, while several [animal]s wander in unexpectedly.</li>
+        <li>desc_sentence->[pawn_pronoun] is rendered with an extra face on the back of [pawn_possessive] head, which is wearing an expression of self-doubt.</li>
+        <li>desc_sentence->[pawn_pronoun] is depicted with the voice sof the other colonists orbiting [pawn_pronoun] head.</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+</Defs>

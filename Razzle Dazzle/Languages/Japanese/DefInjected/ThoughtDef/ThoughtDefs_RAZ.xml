@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PerformedInExtremelyImpressiveSpace.stages.0.label>極めて感動的な劇場で公演した</PerformedInExtremelyImpressiveSpace.stages.0.label>
+  <PerformedInExtremelyImpressiveSpace.stages.0.description>私はいつもそのような場所で公演することを夢見ていた。</PerformedInExtremelyImpressiveSpace.stages.0.description>
+
+  <PerformedInVeryImpressiveSpace.stages.0.label>非常に見事な劇場で公演した</PerformedInVeryImpressiveSpace.stages.0.label>
+  <PerformedInVeryImpressiveSpace.stages.0.description>こんな素晴らしい場所で公演できてうれしい。</PerformedInVeryImpressiveSpace.stages.0.description>
+
+  <PerformedInImpressiveSpace.stages.0.label>豪華な場所で公演した</PerformedInImpressiveSpace.stages.0.label>
+  <PerformedInImpressiveSpace.stages.0.description>私は素敵な場所での公演を楽しんでいます。</PerformedInImpressiveSpace.stages.0.description>
+
+  <Performed.stages.0.label>コロニーのために公演した</Performed.stages.0.label>
+  <Performed.stages.0.description>この世界に私の芸術を見せるべき！</Performed.stages.0.description>
+
+  <SawBadPlay.stages.0.label>ダメな公演を見せられた</SawBadPlay.stages.0.label>
+  <SawBadPlay.stages.0.description>こんなものを見なければならないとは！</SawBadPlay.stages.0.description>
+
+  <SawPlay.stages.0.label>公演を見た</SawPlay.stages.0.label>
+  <SawPlay.stages.0.description>なかなか楽しめてよかった。</SawPlay.stages.0.description>
+
+  <SawGoodPlay.stages.0.label>良い公演を楽しんだ</SawGoodPlay.stages.0.label>
+  <SawGoodPlay.stages.0.description>芸術のための時間を割く事は素晴らしいことだ！</SawGoodPlay.stages.0.description>
+
+  <SawAmazingPlay.stages.0.label>素晴らしい公演と出合った</SawAmazingPlay.stages.0.label>
+  <SawAmazingPlay.stages.0.description>その公演は私の人生を変えるものでした。</SawAmazingPlay.stages.0.description>
+
+  <AttendedBadConcert.stages.0.label>ダメなコンサートに出席した</AttendedBadConcert.stages.0.label>
+  <AttendedBadConcert.stages.0.description>うーん、まるでボマローブが死んだ時の爆発音のようだ。</AttendedBadConcert.stages.0.description>
+
+  <AttendedConcert.stages.0.label>コンサートに出席した</AttendedConcert.stages.0.label>
+  <AttendedConcert.stages.0.description>寛ぎの時間に楽しい音楽を聴けた。</AttendedConcert.stages.0.description>
+
+  <AttendedGoodConcert.stages.0.label>良いコンサートに出席した</AttendedGoodConcert.stages.0.label>
+  <AttendedGoodConcert.stages.0.description>あれこそロックってやつだ!</AttendedGoodConcert.stages.0.description>
+
+  <AttendedAmazingConcert.stages.0.label>素晴らしいコンサートに出席した</AttendedAmazingConcert.stages.0.label>
+  <AttendedAmazingConcert.stages.0.description>これこそが私のソウルミュージックって感じ!!</AttendedAmazingConcert.stages.0.description>
+
+  <AttendedBadGig.stages.0.label>ダメな演奏会に出席した</AttendedBadGig.stages.0.label>
+  <AttendedBadGig.stages.0.description>客が沈黙してるのはとても厄介でした。</AttendedBadGig.stages.0.description>
+
+  <AttendedGig.stages.0.label>演奏会に出席した</AttendedGig.stages.0.label>
+  <AttendedGig.stages.0.description>何度か演奏ミスってたけど、かなり良かった。</AttendedGig.stages.0.description>
+
+  <AttendedGoodGig.stages.0.label>良い演奏会に出席した</AttendedGoodGig.stages.0.label>
+  <AttendedGoodGig.stages.0.description>とても巧みで面白かった!</AttendedGoodGig.stages.0.description>
+
+  <AttendedAmazingGig.stages.0.label>素晴らしい演奏会に出席した</AttendedAmazingGig.stages.0.label>
+  <AttendedAmazingGig.stages.0.description>もうマッファローを以前と同じようには見れない!</AttendedAmazingGig.stages.0.description>
+
+
+</LanguageData>

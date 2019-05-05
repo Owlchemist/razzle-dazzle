@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkGiver_Rehearser.verb>リハーサル</WorkGiver_Rehearser.verb>
+  <WorkGiver_Rehearser.gerund>リハーサルをする</WorkGiver_Rehearser.gerund>
+
+  <WorkGiver_PreparePerformance.verb>上演の準備</WorkGiver_PreparePerformance.verb>
+  <WorkGiver_PreparePerformance.gerund>上演の準備をする</WorkGiver_PreparePerformance.gerund>
+
+  <WorkGiver_DoBillsAtGrandPiano.verb>音楽を作成</WorkGiver_DoBillsAtGrandPiano.verb>
+  <WorkGiver_DoBillsAtGrandPiano.gerund>音楽を作曲する</WorkGiver_DoBillsAtGrandPiano.gerund>
+
+
+</LanguageData>

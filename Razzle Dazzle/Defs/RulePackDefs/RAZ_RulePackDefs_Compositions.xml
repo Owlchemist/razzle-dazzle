@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RulePackDef>
+    <defName>RAZ_ArtName_Composition</defName>
+    <include>
+      <li>ArtNameUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>art_name->[musictype1] for [anyPawn_nameShort]</li>
+        <li>art_name->[musictype1] no. [romannumeral]</li> 
+        <li>art_name->[musictype1] [musicdesc] no. [romannumeral]</li> 
+        <li>art_name->[musictype1] no. [romannumeral] in [key] [keyvar]</li>      	
+        <li>art_name->The [anyPawn_nameShort] suite</li>
+        <li>art_name->[concept] and [concept]</li>
+        <li>art_name->[concept]</li>
+        <li>art_name->Dance of the [characterType]</li>
+        <li>art_name->[objectMaterial] [concept]</li>
+        <li>art_name->[objectMaterial] [abstractNoun]</li>
+        <li>art_name->[babyAnimal] [letter]</li>
+        <li>art_name->[oneSylAdj] [oneSylNoun] for the old [abstractNoun]</li>
+        <li>art_name->[Animal][twoSylObj]s</li>
+        
+        <li>musictype1->Concerto</li>
+        <li>musictype1->Symphony</li>
+        <li>musictype1->Adagio</li>
+        <li>musictype1->Nocturne</li>
+        <li>musictype1->Meditation</li>
+        <li>musictype1->Canon</li>
+        <li>musictype1->Polka</li>
+        <li>musictype1->Sonata</li>
+        <li>musictype1->Solo</li>
+        <li>musictype1->Requiem</li>
+        <li>musictype1->Gymnopedie</li>
+        <li>musictype1->Ragtime</li>
+        <li>musictype1->Serenade</li>
+        
+        <li>musictype2->Ballad</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        <li>musictype2->Serenade</li>
+        
+        <li>musicdesc->Allegro</li>
+        <li>musicdesc->Grosso</li>
+        <li>musicdesc->Arrabbiato</li>
+        <li>musicdesc->Dolce</li>
+        <li>musicdesc->Infranto</li>
+        <li>musicdesc->Lunatico</li>
+        <li>musicdesc->Piccolo</li>
+        <li>musicdesc->Scortese</li>
+        <li>musicdesc->Triste</li>
+        <li>musicdesc->Nuovo</li>
+        <li>musicdesc->Azzurro</li>
+        <li>musicdesc->Rosso</li>
+        <li>musicdesc->Perduto</li>
+        
+        <li>key->B flat</li>
+        <li>key->C</li>
+        <li>key->D</li>
+        <li>key->E</li>
+        <li>key->F sharp</li>
+        <li>key->G</li>
+        
+        <li>keyvar->Major</li>
+        <li>key->Minor</li>
+        <li>keyvar->Major</li>
+        <li>key->Minor</li>
+        <li>keyvar->Major</li>
+        <li>key->Minor</li>
+        <li>key->Diminished</li>
+        
+        <li>characterType->Raider</li>
+        <li>characterType->Tribesperson</li>
+        <li>characterType->Colonist</li>
+        <li>characterType->Pirate</li>
+        <li>characterType->Textiles Trader</li>
+        <li>characterType->Traveller</li>
+        <li>characterType->Muffalo Herder</li>
+        <li>characterType->Thrumbo Charmer</li>
+        <li>characterType->Boomrat Messiah</li>
+        <li>characterType->Boomalope Trainer</li>
+        <li>characterType->Shaman</li>
+        <li>characterType->Wandering Player</li>
+        <li>characterType->Devilstrand Farmer</li>
+        <li>characterType->Megatherum Rider</li>
+        <li>characterType->Vatgrown Soldier</li>
+        <li>characterType->Scientist</li>
+        <li>characterType->Slave</li>
+        
+        <li>objectMaterial->Gold</li>
+        <li>objectMaterial->Rubber</li>
+        <li>objectMaterial->Epoxy</li>
+        <li>objectMaterial->Silver</li>
+        <li>objectMaterial->Steel</li>
+        <li>objectMaterial->Bronze</li>
+        <li>objectMaterial->Plasteel</li>
+        <li>objectMaterial->Uranium</li>
+        <li>objectMaterial->Tantalum</li>
+        <li>objectMaterial->Titanium</li>
+        <li>objectMaterial->Stone</li>
+        <li>objectMaterial->Copper</li>
+        <li>objectMaterial->Plastic</li>
+        <li>objectMaterial->Memory Foam</li>
+        <li>objectMaterial->Sapient Pearwood</li>
+        <li>objectMaterial->Ash</li>
+        <li>objectMaterial->Tin</li>
+        <li>objectMaterial->Aluminium</li>
+        <li>objectMaterial->Fullerine</li>
+        <li>objectMaterial->Marble</li>
+        <li>objectMaterial->Slate</li>
+        <li>objectMaterial->Granite</li>
+        <li>objectMaterial->Limestone</li>
+        
+        <li>abstractNoun->Soul</li>
+        <li>abstractNoun->Heart</li>
+        <li>abstractNoun->Hunger</li>
+        <li>abstractNoun->Thirst</li>
+        <li>abstractNoun->Redemption</li>
+        <li>abstractNoun->Friendship</li>
+        <li>abstractNoun->Transcendence</li>
+        <li>abstractNoun->Dream State</li>
+        <li>abstractNoun->Wonder</li>
+        <li>abstractNoun->Companionship</li>
+        <li>abstractNoun->Laughter</li>
+        <li>abstractNoun->Comedy</li>
+        <li>abstractNoun->Hysteria</li>
+        <li>abstractNoun->Desperation</li>
+        <li>abstractNoun->Hope</li>
+        <li>abstractNoun->Housekeeping</li>
+        <li>abstractNoun->Ceremony</li>
+        <li>abstractNoun->Play</li>
+        <li>abstractNoun->Wedding</li>
+        <li>abstractNoun->Party</li>
+        <li>abstractNoun->Game</li>
+        <li>abstractNoun->Remembrance</li>
+        <li>abstractNoun->Revelation</li>
+        <li>abstractNoun->Resurrection</li>
+        <li>abstractNoun->Wanderlust</li>        
+        <li>abstractNoun->Honeymoon</li>
+        <li>abstractNoun->Dance</li>
+        <li>abstractNoun->Love</li>
+        <li>abstractNoun->Lies</li>
+        <li>abstractNoun->Revolution</li>
+        <li>abstractNoun->Reflection</li>
+        <li>abstractNoun->Rasputin</li>
+        <li>abstractNoun->Chorus</li>
+        <li>abstractNoun->Time</li>
+        
+        <li>oneSylAdj->New</li>
+        <li>oneSylAdj->Red</li>
+        <li>oneSylAdj->Blue</li>
+        <li>oneSylAdj->Fast</li>
+        <li>oneSylAdj->Whole</li>
+        <li>oneSylAdj->Neat</li>
+        <li>oneSylAdj->Green</li>
+        <li>oneSylAdj->Gold</li>
+        <li>oneSylAdj->Trite</li>
+        <li>oneSylAdj->One</li>
+        <li>oneSylAdj->Cold</li>
+        <li>oneSylAdj->Hot</li>
+        <li>oneSylAdj->Fine</li>        
+        <li>oneSylAdj->Bold</li>
+        <li>oneSylAdj->Soft</li>
+        <li>oneSylAdj->Hard</li>
+        <li>oneSylAdj->Rough</li>
+        <li>oneSylAdj->Smooth</li>
+        <li>oneSylAdj->Drunk</li>
+        <li>oneSylAdj->Slow</li>
+        <li>oneSylAdj->Black</li>	
+        <li>oneSylAdj->Dark</li>        
+        <li>oneSylAdj->Tired</li>
+        <li>oneSylAdj->Tough</li>
+        <li>oneSylAdj->Pure</li>
+        <li>oneSylAdj->Lost</li>
+        <li>oneSylAdj->Loathed</li>
+        <li>oneSylAdj->Loved</li>
+        <li>oneSylAdj->Dry</li>
+        <li>oneSylAdj->Wet</li>        
+        
+        <li>oneSylNoun->Skin</li>
+        <li>oneSylNoun->Gun</li>
+        <li>oneSylNoun->Hat</li>
+        <li>oneSylNoun->Cat</li>
+        <li>oneSylNoun->Chair</li>
+        <li>oneSylNoun->Room</li>
+        <li>oneSylNoun->Rope</li>
+        <li>oneSylNoun->Feet</li>
+        <li>oneSylNoun->Boot</li>
+        <li>oneSylNoun->Coat</li>
+        <li>oneSylNoun->Moon</li>
+        <li>oneSylNoun->Sun</li>
+        <li>oneSylNoun->Star</li>
+        <li>oneSylNoun->Ship</li>
+        <li>oneSylNoun->Plate</li>
+        <li>oneSylNoun->Knife</li>
+        <li>oneSylNoun->Sword</li>
+        <li>oneSylNoun->Spoon</li>
+        <li>oneSylNoun->Wasp</li>
+        <li>oneSylNoun->Rat</li>
+        <li>oneSylNoun->Smoke</li>
+        <li>oneSylNoun->Slab</li>
+        <li>oneSylNoun->Fish</li>
+        <li>oneSylNoun->Card</li>
+        <li>oneSylNoun->Glass</li>
+        <li>oneSylNoun->Mug</li>
+        <li>oneSylNoun->Light</li>
+        <li>oneSylNoun->Bed</li>
+        <li>oneSylNoun->Lamp</li>
+        <li>oneSylNoun->Cup</li>
+        <li>oneSylNoun->Flame</li>
+        <li>oneSylNoun->Fire</li>
+        <li>oneSylNoun->Tree</li>
+        <li>oneSylNoun->Hand</li>
+        <li>oneSylNoun->Map</li>
+        <li>oneSylNoun->Clock</li>
+        <li>oneSylNoun->Blade</li>
+        <li>oneSylNoun->Shrine</li>
+        <li>oneSylNoun->Rules</li>
+        <li>oneSylNoun->Path</li>
+        
+        <li>animalType->Thrumbo</li>
+        <li>animalType->Muffalo</li>
+        <li>animalType->Boomrat</li>
+        <li>animalType->Boomalope</li>
+        <li>animalType->Megatherum</li>
+        <li>animalType->Fox</li>
+        <li>animalType->Wolf</li>
+        <li>animalType->Cat</li>
+        <li>animalType->Swan</li>
+        <li>animalType->Puffin</li>
+        <li>animalType->Penguin</li>
+        <li>animalType->Warg</li>
+        <li>animalType->Alphabeaver</li>
+        <li>animalType->Labrador</li>
+        <li>animalType->Husky</li>
+        <li>animalType->Alpaca</li>
+        <li>animalType->Squirrel</li>
+        <li>animalType->Swordfish</li>
+        <li>animalType->Rat</li>
+        <li>animalType->Chicken</li>
+        
+        <li>twoSylNoun->trombone</li>
+        <li>twoSylNoun->clarinet</li>
+        <li>twoSylNoun->guitar</li>
+        <li>twoSylNoun->piano</li>
+        <li>twoSylNoun->chainsaw</li>
+        <li>twoSylNoun->hammock</li>
+        <li>twoSylNoun->hatstand</li>
+        <li>twoSylNoun->photograph</li>
+        <li>twoSylNoun->footrest</li>
+        <li>twoSylNoun->lampshade</li>
+        <li>twoSylNoun->spaceship</li>
+        <li>twoSylNoun->bassoon</li>
+        <li>twoSylNoun->oboe</li>
+        <li>twoSylNoun->tuba</li>
+        <li>twoSylNoun->trumpet</li>
+        <li>twoSylNoun->doorstop</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  
+  <RulePackDef>
+    <defName>RAZ_ArtDescription_Composition</defName>
+      <rulePack>
+        <rulesStrings>
+          <li>art_description_root->A musical composition expressing [concept].</li>
+        </rulesStrings>
+      </rulePack>
+  </RulePackDef>
+</Defs>

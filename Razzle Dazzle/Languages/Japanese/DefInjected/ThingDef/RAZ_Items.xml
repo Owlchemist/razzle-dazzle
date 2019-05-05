@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RAZ_Play.label>演劇脚本</RAZ_Play.label>
+  <RAZ_Play.description>入植者によって書かれた演劇の脚本。</RAZ_Play.description>
+
+  <RAZ_UnfinishedPlay.label>未完成な演劇脚本</RAZ_UnfinishedPlay.label>
+  <RAZ_UnfinishedPlay.description>半分書けた。半分しか出来てない。</RAZ_UnfinishedPlay.description>
+
+  <RAZ_UnfinishedMusic.label>未完成の楽譜</RAZ_UnfinishedMusic.label>
+
+  <RAZ_Composition.label>楽譜</RAZ_Composition.label>
+  <RAZ_Composition.description>入植者によって書かれた楽譜。</RAZ_Composition.description>
+
+
+</LanguageData>

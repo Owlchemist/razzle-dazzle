@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Razzle Dazzle</name>
+	<author>Bar0th, Owlchemist</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>
+		For those players who want a little more song and dance in the lives of their colonies! This mod introduces a range of performing arts: 
+		Theatre:  Colonists can write (Artistic) and perform plays (Social), which are written at sculpting benches.
+		Music:    Music can be composed (Artistic) and performed at a piano (Artistic).
+		Stand-up: Rehearsed and performed at the microphone stand (Social). 
+		Radio: Performances from all of the above will be automatically broadcast if you have a broadcaster, with subscription payments sent in by nearby settlements based on the quality of your broadcast.
+		
+		Now you can keep your colonists from ever doing a real day's work!
+		
+		Credits: Original was created by SeveralPuffins, Japanese translation by Proxyer.
+	</description>
+</ModMetaData>

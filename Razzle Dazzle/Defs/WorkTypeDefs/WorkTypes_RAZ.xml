@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <WorkTypeDef>
+    <defName>Performance</defName>
+    <labelShort>Perform</labelShort>
+    <pawnLabel>Performer</pawnLabel>
+    <gerundLabel>Performing</gerundLabel>
+    <description>Performers put on plays, recitals and gigs for entertainment.</description>
+    <verb>Perform</verb>
+    <naturalPriority>440</naturalPriority>
+    <relevantSkills>
+      <li>Social</li>
+    </relevantSkills>
+    <workTags>
+      <li>Social</li>
+    </workTags>
+  </WorkTypeDef>
+</Defs>

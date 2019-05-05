@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<IncidentDef>
+		<defName>RAZSubscription</defName>
+		<label>subscription drop</label>
+		<category>Misc</category>
+		<targetTags>
+			<li>Map_PlayerHome</li>
+		</targetTags>
+		<workerClass>RazzleDazzle.IncidentWorker_RAZSubscription</workerClass>
+		<baseChance>0</baseChance>
+	</IncidentDef>
+</Defs>

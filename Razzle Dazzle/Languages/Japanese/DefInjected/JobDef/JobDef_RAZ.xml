@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JobDef_Rehearse.reportString>TargetAのリハーサルする。</JobDef_Rehearse.reportString>
+  <JobDef_DoStartRehearsalDirectly.reportString>TargetAのリハーサルをしている。</JobDef_DoStartRehearsalDirectly.reportString>
+  <JobDef_PerformPlay.reportString>演劇を上演している。</JobDef_PerformPlay.reportString>
+  <JobDef_DoRehearsePlayBill.reportString>演劇のリハーサルをしている。</JobDef_DoRehearsePlayBill.reportString>
+  <JobDef_PrepareConcert.reportString>コンサートの準備をする。</JobDef_PrepareConcert.reportString>
+  <JobDef_PerformMusic.reportString>音楽を演奏している。</JobDef_PerformMusic.reportString>
+  <JobDef_PerformComedy.reportString>漫才を上演している。</JobDef_PerformComedy.reportString>
+  <JobDef_FaceObject.reportString>Woo!</JobDef_FaceObject.reportString>
+
+
+  <!-- JOY JOBS -->
+
+  <MuckAroundOnStage.reportString>楽器で遊んでいる</MuckAroundOnStage.reportString>
+  <NoodleOnPiano.reportString>でたらめに即興演奏をする。</NoodleOnPiano.reportString>
+
+
+</LanguageData>

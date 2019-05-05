@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RecipeDef>
+    <defName>RAZ_StagePlay</defName>
+    <label>Stage a play</label>
+    <description>Stage a play written or bought by your colonists.</description>
+    <jobString>Staging play.</jobString>
+    <workAmount>10</workAmount>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
+    <workSkill>Social</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RAZ_Play</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RAZ_Play</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+    </products>
+    <recipeUsers>
+      <li>StageDef</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Social>6</Social>
+    </skillRequirements>
+  </RecipeDef>
+  
+  <RecipeDef>
+  <defName>RAZ_WritePlay</defName>
+    <label>write a play</label>
+    <description>Write a dramatic work for the stage.</description>
+    <jobString>Writing play.</jobString>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
+    <workSkill>Artistic</workSkill>
+    <workSkillLearnFactor>0.75</workSkillLearnFactor>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Leathers</li>
+          </categories>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Leathers</li>
+      </categories>
+    </fixedIngredientFilter>
+    <unfinishedThingDef>RAZ_UnfinishedPlay</unfinishedThingDef>
+    <products>
+      <RAZ_Play>1</RAZ_Play>
+    </products>
+    <recipeUsers>
+      <li>TableSculpting</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Artistic>5</Artistic>
+    </skillRequirements>
+  </RecipeDef>
+  
+  <RecipeDef>
+  <defName>RAZ_ComposeMusic</defName>
+    <label>compose music</label>
+    <description>Compose a piece of music.</description>
+    <jobString>Composing music.</jobString>
+    <workSpeedStat>WorkSpeedGlobal</workSpeedStat>
+    <workSkill>Artistic</workSkill>
+    <workSkillLearnFactor>0.75</workSkillLearnFactor>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Leathers</li>
+          </categories>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Leathers</li>
+      </categories>
+    </fixedIngredientFilter>
+    <unfinishedThingDef>RAZ_UnfinishedMusic</unfinishedThingDef>
+    <products>
+      <RAZ_Composition>1</RAZ_Composition>
+    </products>
+    <recipeUsers>
+      <li>GrandPianoDef</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Artistic>5</Artistic>
+    </skillRequirements>
+  </RecipeDef>
+  
+  <RecipeDef Name="BurnPerformance">
+    <defName>BurnPerformance</defName>
+    <label>burn performance</label>
+    <description>Burn a performance.</description>
+    <jobString>Burning a performance.</jobString>
+    <workAmount>40</workAmount>
+    <requiredGiverWorkType>Hauling</requiredGiverWorkType>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RAZ_Composition</li>
+            <li>RAZ_Play</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RAZ_Composition</li>
+        <li>RAZ_Play</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>ElectricCrematorium</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

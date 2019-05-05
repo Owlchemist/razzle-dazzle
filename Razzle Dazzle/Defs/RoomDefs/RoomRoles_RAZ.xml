@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RoomRoleDef>
+    <defName>Theatre</defName>
+    <label>theatre</label>
+    <workerClass>RazzleDazzle.RoomRoleWorker_Theatre</workerClass>
+    <relatedStats>
+      <li>Beauty</li>
+      <li>Cleanliness</li>
+      <li>Wealth</li>
+      <li>Space</li>
+      <li>Impressiveness</li>
+    </relatedStats>
+  </RoomRoleDef>
+  
+  <RoomRoleDef>
+    <defName>ConcertHall</defName>
+    <label>concert hall</label>
+    <workerClass>RazzleDazzle.RoomRoleWorker_ConcertHall</workerClass>
+    <relatedStats>
+      <li>Beauty</li>
+      <li>Cleanliness</li>
+      <li>Wealth</li>
+      <li>Space</li>
+      <li>Impressiveness</li>
+    </relatedStats>
+  </RoomRoleDef>
+</Defs>

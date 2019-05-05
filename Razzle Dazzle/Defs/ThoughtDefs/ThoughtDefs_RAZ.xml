@@ -1,0 +1,242 @@
+<Defs>
+
+  <ThoughtDef>
+    <defName>PerformedInExtremelyImpressiveSpace</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>12.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>performed in extremely impressive environment</label>
+        <description>I always dreamed I would perform somewhere like that</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>PerformedInVeryImpressiveSpace</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>10.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>performed in very impressive environment</label>
+        <description>What an incredible place to perform</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>PerformedInImpressiveSpace</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>8.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>performed in impressive environment</label>
+        <description>I enjoy performing in in that lovely environment</description>
+        <baseMoodEffect>8</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>Performed</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>5.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>performed for the colony</label>
+        <description>I got to share my art with the world!</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>SawBadPlay</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>2.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.8</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>saw bad play</label>
+        <description>I can't believe I had to sit through that!</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>SawPlay</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>2.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>saw play</label>
+        <description>It was nice to get to do something diverting.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>SawGoodPlay</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>10.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>saw play</label>
+        <description>It's wonderful to have time for the arts!</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>SawAmazingPlay</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>30.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>saw amazing play</label>
+        <description>That performance was life-changing.</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedBadConcert</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>2.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.8</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended bad concert</label>
+        <description>Uugh. It sounded like a boomalope's death throws.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedConcert</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>2.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended concert</label>
+        <description>A pleasant evening's music.</description>
+        <baseMoodEffect>5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedGoodConcert</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>10.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended good concert</label>
+        <description>That rocked!</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+   <ThoughtDef>
+    <defName>AttendedAmazingConcert</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>30.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended amazing concert</label>
+        <description>That music is in my soul!</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedBadGig</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>2.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.8</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended bad gig</label>
+        <description>The silence was so awkward.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedGig</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>2.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended gig</label>
+        <description>A few duff lines, but it was pretty good.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedGoodGig</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>6.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended good gig</label>
+        <description>So clever and funny!</description>
+        <baseMoodEffect>6</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>AttendedAmazingGig</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>16.0</durationDays>
+    <stackLimit>3</stackLimit>
+    <stackedEffectMultiplier>0.5</stackedEffectMultiplier>
+    <stages>
+      <li>
+        <label>attended amazing gig</label>
+        <description>I'll never look at a muffalo the same way again!</description>
+        <baseMoodEffect>8</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

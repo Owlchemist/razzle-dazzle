@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ================= Performance buildings tables ===================-->
+	<ThingDef Name="PerformanceBuildingBase" ParentName="BenchBase" Abstract="True">
+		<tickerType>Rare</tickerType>
+	</ThingDef>
+	
+	<ThingDef ParentName="PerformanceBuildingBase">
+		<defName>StageDef</defName>
+		<label>Stage</label>
+		<description>A stage on which to hold performances.</description>
+		<thingClass>RazzleDazzle.Building_Stage</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Stage</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(5,3)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<rotatable>true</rotatable>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<altitudeLayer>Building</altitudeLayer>
+		<comps>
+			<li Class="RazzleDazzle.CompProperties_PerformanceVenue">
+				<ticksBetweenPerformances>600</ticksBetweenPerformances>
+				<taleDef>PerformedPlay</taleDef>
+				<artDef>RAZ_Play</artDef>
+				<performersNeeded>2</performersNeeded>
+				<entertainmentWeight>1.2</entertainmentWeight>
+				<minTicksInPerformance>8000</minTicksInPerformance>
+				<numTicksToRehearse>200000</numTicksToRehearse>
+				<rehearsalMotes>
+					<li>Mote_Comedy</li>
+					<li>Mote_Tragedy</li>
+					<li>Mote_Comedy</li>
+					<li>Mote_Tragedy</li>
+				</rehearsalMotes>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<costList>
+			<Steel>20</Steel>
+		</costList>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>400</costStuffCount>
+		<useHitPoints>True</useHitPoints>
+		<statBases>
+			<WorkToMake>3200</WorkToMake>
+			<MaxHitPoints>300</MaxHitPoints>
+			<Beauty>50</Beauty>
+			<Flammability>0.8</Flammability>
+		</statBases>
+		<size>(5,3)</size>
+		<building>
+			<joyKind>Gaming_Cerebral</joyKind>
+			<watchBuildingStandDistanceRange>
+				<min>-8</min>
+				<max>8</max>
+			</watchBuildingStandDistanceRange>
+			<watchBuildingStandRectWidth>16</watchBuildingStandRectWidth>
+		</building>
+		<placeWorkers>
+			<li>PlaceWorker_WatchArea</li>
+		</placeWorkers>
+		<designationCategory>Joy</designationCategory>
+		<passability>Standable</passability>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+		<surfaceType>Item</surfaceType>
+	</ThingDef>
+	
+	<ThingDef ParentName="PerformanceBuildingBase">
+		<defName>GrandPianoDef</defName>
+		<label>grand piano</label>
+		<description>A grand piano.</description>
+		<thingClass>RazzleDazzle.Building_GrandPiano</thingClass>
+		<graphicData>
+			<texPath>Things/Building/RAZ_GrandPiano</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,2.5)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<rotatable>true</rotatable>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<altitudeLayer>Building</altitudeLayer>
+		<comps>
+			<li Class="RazzleDazzle.CompProperties_PerformanceVenue">
+				<ticksBetweenPerformances>600</ticksBetweenPerformances>
+				<performersNeeded>1</performersNeeded>
+				<artDef>RAZ_Composition</artDef>
+				<taleDef>PerformedMusic</taleDef>
+				<rehearsalMotes>
+					<li>Mote_Music</li>
+				</rehearsalMotes>
+				<entertainmentWeight>0.8</entertainmentWeight>
+				<minTicksInPerformance>5000</minTicksInPerformance>
+				<numTicksToRehearse>24000</numTicksToRehearse>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<costList>
+			<Steel>20</Steel>
+		</costList>
+		<stuffCategories>
+			<li>Woody</li>
+		</stuffCategories>
+		<costStuffCount>400</costStuffCount>
+		<useHitPoints>True</useHitPoints>
+		<statBases>
+			<WorkToMake>14200</WorkToMake>
+			<MaxHitPoints>300</MaxHitPoints>
+			<Beauty>50</Beauty>
+			<Flammability>0.8</Flammability>
+		</statBases>
+		<size>(3,2)</size>
+		<building>
+			<joyKind>Gaming_Cerebral</joyKind>
+			<watchBuildingStandDistanceRange>
+				<min>-8</min>
+				<max>8</max>
+			</watchBuildingStandDistanceRange>
+			<watchBuildingStandRectWidth>16</watchBuildingStandRectWidth>
+		</building>
+		<researchPrerequisites><li>Machining</li></researchPrerequisites>
+		<placeWorkers>
+			<li>PlaceWorker_WatchArea</li>
+		</placeWorkers>
+		<inspectorTabs>
+			<li>ITab_Bills</li>
+		</inspectorTabs>
+		<designationCategory>Joy</designationCategory>
+		<passability>PassThroughOnly</passability>
+		<pathCost>70</pathCost>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+		<surfaceType>Item</surfaceType>
+	</ThingDef>
+	
+	<ThingDef ParentName="PerformanceBuildingBase">
+		<defName>RazMicrophoneDef</defName>
+		<label>microphone</label>
+		<description>A microphone.</description>
+		<thingClass>RazzleDazzle.Building_Microphone</thingClass>
+		<graphicData>
+			<texPath>Things/Building/RAZ_Mic</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<rotatable>true</rotatable>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<altitudeLayer>Building</altitudeLayer>
+		<comps>
+			<li Class="RazzleDazzle.CompProperties_PerformanceVenue">
+				<ticksBetweenPerformances>600</ticksBetweenPerformances>
+				<performersNeeded>1</performersNeeded>
+				<entertainmentWeight>0.5</entertainmentWeight>
+				<numTicksToRehearse>18000</numTicksToRehearse>
+				<minTicksInPerformance>4000</minTicksInPerformance>
+				<taleDef>PerformedComedy</taleDef>
+				<rehearsalMotes>
+					<li>Mote_Comedy</li>
+				</rehearsalMotes>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+		</comps>
+		<costList>
+			<Steel>20</Steel>
+			<ComponentIndustrial>2</ComponentIndustrial>
+		</costList>
+		<useHitPoints>True</useHitPoints>
+		<statBases>
+			<WorkToMake>8000</WorkToMake>
+			<MaxHitPoints>1000</MaxHitPoints>
+			<Beauty>-2</Beauty>
+			<Flammability>0.6</Flammability>
+		</statBases>
+		<size>(1,1)</size>
+		<building>
+			<joyKind>Gaming_Cerebral</joyKind>
+			<watchBuildingStandDistanceRange>
+				<min>-8</min>
+				<max>8</max>
+			</watchBuildingStandDistanceRange>
+			<watchBuildingStandRectWidth>16</watchBuildingStandRectWidth>
+		</building>
+		<designationCategory>Joy</designationCategory>
+		<passability>PassThroughOnly</passability>
+		<pathCost>70</pathCost>
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,1)</interactionCellOffset>
+		<surfaceType>Item</surfaceType>
+		<researchPrerequisites>
+			<li>MicroelectronicsBasics</li>
+		</researchPrerequisites>
+	</ThingDef>
+	
+	<!-- =================== Broadcast! ==========================-->
+	<ThingDef ParentName="BuildingBase">
+		<defName>BroadcastTowerDef</defName>
+		<label>Broadcaster</label>
+		<thingClass>RazzleDazzle.Building_BroadcastTower</thingClass>
+		<tickerType>Rare</tickerType>
+		<graphicData>
+			<texPath>Things/Building/Broadcaster</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(5,4)</drawSize>
+			<damageData>
+				<rect>(0,0,3,1.8)</rect>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Impassable</passability>
+		<blockWind>true</blockWind>
+		<castEdgeShadows>true</castEdgeShadows>
+		<fillPercent>1</fillPercent>
+		<canOverlapZones>false</canOverlapZones>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<MaxHitPoints>250</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<description>A device for sending radio broadcasts.</description>
+		<size>(3,2)</size>
+		<costList>
+			<Steel>120</Steel>
+			<ComponentIndustrial>24</ComponentIndustrial>
+		</costList>
+		<hasInteractionCell>False</hasInteractionCell>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Joy</designationCategory>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>800</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_Glower">
+				<glowRadius>4</glowRadius>
+				<glowColor>(1,213,238,0)</glowColor>
+			</li>
+			<li Class="CompProperties_Forbiddable"/>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<researchPrerequisites>
+			<li>MicroelectronicsBasics</li>
+		</researchPrerequisites>
+	</ThingDef>
+</Defs>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.0>art_name->[musictype1] for [anyPawn_nameShort]</RAZ_ArtName_Composition.rulePack.rulesStrings.0>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.1>art_name->[musictype1] no. [romannumeral]</RAZ_ArtName_Composition.rulePack.rulesStrings.1>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.2>art_name->[musictype1] [musicdesc] no. [romannumeral]</RAZ_ArtName_Composition.rulePack.rulesStrings.2>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.3>art_name->[musictype1] no. [romannumeral] in [key] [keyvar]</RAZ_ArtName_Composition.rulePack.rulesStrings.3>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.4>art_name->The [anyPawn_nameShort] suite</RAZ_ArtName_Composition.rulePack.rulesStrings.4>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.5>art_name->[concept] and [concept]</RAZ_ArtName_Composition.rulePack.rulesStrings.5>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.6>art_name->[concept]</RAZ_ArtName_Composition.rulePack.rulesStrings.6>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.7>art_name->Dance of the [characterType]</RAZ_ArtName_Composition.rulePack.rulesStrings.7>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.8>art_name->[objectMaterial] [concept]</RAZ_ArtName_Composition.rulePack.rulesStrings.8>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.9>art_name->[objectMaterial] [abstractNoun]</RAZ_ArtName_Composition.rulePack.rulesStrings.9>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.10>art_name->[babyAnimal] [letter]</RAZ_ArtName_Composition.rulePack.rulesStrings.10>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.11>art_name->[oneSylAdj] [oneSylNoun] for the old [abstractNoun]</RAZ_ArtName_Composition.rulePack.rulesStrings.11>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.12>art_name->[Animal][twoSylObj]s</RAZ_ArtName_Composition.rulePack.rulesStrings.12>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.13>musictype1->Concerto</RAZ_ArtName_Composition.rulePack.rulesStrings.13>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.14>musictype1->Symphony</RAZ_ArtName_Composition.rulePack.rulesStrings.14>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.15>musictype1->Adagio</RAZ_ArtName_Composition.rulePack.rulesStrings.15>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.16>musictype1->Nocturne</RAZ_ArtName_Composition.rulePack.rulesStrings.16>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.17>musictype1->Meditation</RAZ_ArtName_Composition.rulePack.rulesStrings.17>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.18>musictype1->Canon</RAZ_ArtName_Composition.rulePack.rulesStrings.18>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.19>musictype1->Polka</RAZ_ArtName_Composition.rulePack.rulesStrings.19>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.20>musictype1->Sonata</RAZ_ArtName_Composition.rulePack.rulesStrings.20>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.21>musictype1->Solo</RAZ_ArtName_Composition.rulePack.rulesStrings.21>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.22>musictype1->Requiem</RAZ_ArtName_Composition.rulePack.rulesStrings.22>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.23>musictype1->Gymnopedie</RAZ_ArtName_Composition.rulePack.rulesStrings.23>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.24>musictype1->Ragtime</RAZ_ArtName_Composition.rulePack.rulesStrings.24>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.25>musictype1->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.25>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.26>musictype2->Ballad</RAZ_ArtName_Composition.rulePack.rulesStrings.26>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.27>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.27>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.28>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.28>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.29>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.29>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.30>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.30>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.31>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.31>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.32>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.32>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.33>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.33>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.34>musictype2->Serenade</RAZ_ArtName_Composition.rulePack.rulesStrings.34>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.35>musicdesc->Allegro</RAZ_ArtName_Composition.rulePack.rulesStrings.35>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.36>musicdesc->Grosso</RAZ_ArtName_Composition.rulePack.rulesStrings.36>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.37>musicdesc->Arrabbiato</RAZ_ArtName_Composition.rulePack.rulesStrings.37>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.38>musicdesc->Dolce</RAZ_ArtName_Composition.rulePack.rulesStrings.38>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.39>musicdesc->Infranto</RAZ_ArtName_Composition.rulePack.rulesStrings.39>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.40>musicdesc->Lunatico</RAZ_ArtName_Composition.rulePack.rulesStrings.40>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.41>musicdesc->Piccolo</RAZ_ArtName_Composition.rulePack.rulesStrings.41>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.42>musicdesc->Scortese</RAZ_ArtName_Composition.rulePack.rulesStrings.42>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.43>musicdesc->Triste</RAZ_ArtName_Composition.rulePack.rulesStrings.43>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.44>musicdesc->Nuovo</RAZ_ArtName_Composition.rulePack.rulesStrings.44>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.45>musicdesc->Azzurro</RAZ_ArtName_Composition.rulePack.rulesStrings.45>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.46>musicdesc->Rosso</RAZ_ArtName_Composition.rulePack.rulesStrings.46>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.47>musicdesc->Perduto</RAZ_ArtName_Composition.rulePack.rulesStrings.47>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.48>key->B flat</RAZ_ArtName_Composition.rulePack.rulesStrings.48>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.49>key->C</RAZ_ArtName_Composition.rulePack.rulesStrings.49>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.50>key->D</RAZ_ArtName_Composition.rulePack.rulesStrings.50>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.51>key->E</RAZ_ArtName_Composition.rulePack.rulesStrings.51>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.52>key->F sharp</RAZ_ArtName_Composition.rulePack.rulesStrings.52>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.53>key->G</RAZ_ArtName_Composition.rulePack.rulesStrings.53>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.54>keyvar->Major</RAZ_ArtName_Composition.rulePack.rulesStrings.54>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.55>key->Minor</RAZ_ArtName_Composition.rulePack.rulesStrings.55>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.56>keyvar->Major</RAZ_ArtName_Composition.rulePack.rulesStrings.56>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.57>key->Minor</RAZ_ArtName_Composition.rulePack.rulesStrings.57>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.58>keyvar->Major</RAZ_ArtName_Composition.rulePack.rulesStrings.58>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.59>key->Minor</RAZ_ArtName_Composition.rulePack.rulesStrings.59>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.60>key->Diminished</RAZ_ArtName_Composition.rulePack.rulesStrings.60>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.61>characterType->Raider</RAZ_ArtName_Composition.rulePack.rulesStrings.61>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.62>characterType->Tribesperson</RAZ_ArtName_Composition.rulePack.rulesStrings.62>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.63>characterType->Colonist</RAZ_ArtName_Composition.rulePack.rulesStrings.63>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.64>characterType->Pirate</RAZ_ArtName_Composition.rulePack.rulesStrings.64>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.65>characterType->Textiles Trader</RAZ_ArtName_Composition.rulePack.rulesStrings.65>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.66>characterType->Traveller</RAZ_ArtName_Composition.rulePack.rulesStrings.66>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.67>characterType->Muffalo Herder</RAZ_ArtName_Composition.rulePack.rulesStrings.67>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.68>characterType->Thrumbo Charmer</RAZ_ArtName_Composition.rulePack.rulesStrings.68>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.69>characterType->Boomrat Messiah</RAZ_ArtName_Composition.rulePack.rulesStrings.69>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.70>characterType->Boomalope Trainer</RAZ_ArtName_Composition.rulePack.rulesStrings.70>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.71>characterType->Shaman</RAZ_ArtName_Composition.rulePack.rulesStrings.71>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.72>characterType->Wandering Player</RAZ_ArtName_Composition.rulePack.rulesStrings.72>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.73>characterType->Devilstrand Farmer</RAZ_ArtName_Composition.rulePack.rulesStrings.73>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.74>characterType->Megatherum Rider</RAZ_ArtName_Composition.rulePack.rulesStrings.74>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.75>characterType->Vatgrown Soldier</RAZ_ArtName_Composition.rulePack.rulesStrings.75>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.76>characterType->Scientist</RAZ_ArtName_Composition.rulePack.rulesStrings.76>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.77>characterType->Slave</RAZ_ArtName_Composition.rulePack.rulesStrings.77>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.78>objectMaterial->Gold</RAZ_ArtName_Composition.rulePack.rulesStrings.78>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.79>objectMaterial->Rubber</RAZ_ArtName_Composition.rulePack.rulesStrings.79>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.80>objectMaterial->Epoxy</RAZ_ArtName_Composition.rulePack.rulesStrings.80>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.81>objectMaterial->Silver</RAZ_ArtName_Composition.rulePack.rulesStrings.81>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.82>objectMaterial->Steel</RAZ_ArtName_Composition.rulePack.rulesStrings.82>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.83>objectMaterial->Bronze</RAZ_ArtName_Composition.rulePack.rulesStrings.83>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.84>objectMaterial->Plasteel</RAZ_ArtName_Composition.rulePack.rulesStrings.84>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.85>objectMaterial->Uranium</RAZ_ArtName_Composition.rulePack.rulesStrings.85>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.86>objectMaterial->Tantalum</RAZ_ArtName_Composition.rulePack.rulesStrings.86>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.87>objectMaterial->Titanium</RAZ_ArtName_Composition.rulePack.rulesStrings.87>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.88>objectMaterial->Stone</RAZ_ArtName_Composition.rulePack.rulesStrings.88>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.89>objectMaterial->Copper</RAZ_ArtName_Composition.rulePack.rulesStrings.89>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.90>objectMaterial->Plastic</RAZ_ArtName_Composition.rulePack.rulesStrings.90>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.91>objectMaterial->Memory Foam</RAZ_ArtName_Composition.rulePack.rulesStrings.91>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.92>objectMaterial->Sapient Pearwood</RAZ_ArtName_Composition.rulePack.rulesStrings.92>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.93>objectMaterial->Ash</RAZ_ArtName_Composition.rulePack.rulesStrings.93>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.94>objectMaterial->Tin</RAZ_ArtName_Composition.rulePack.rulesStrings.94>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.95>objectMaterial->Aluminium</RAZ_ArtName_Composition.rulePack.rulesStrings.95>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.96>objectMaterial->Fullerine</RAZ_ArtName_Composition.rulePack.rulesStrings.96>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.97>objectMaterial->Marble</RAZ_ArtName_Composition.rulePack.rulesStrings.97>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.98>objectMaterial->Slate</RAZ_ArtName_Composition.rulePack.rulesStrings.98>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.99>objectMaterial->Granite</RAZ_ArtName_Composition.rulePack.rulesStrings.99>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.100>objectMaterial->Limestone</RAZ_ArtName_Composition.rulePack.rulesStrings.100>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.101>abstractNoun->Soul</RAZ_ArtName_Composition.rulePack.rulesStrings.101>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.102>abstractNoun->Heart</RAZ_ArtName_Composition.rulePack.rulesStrings.102>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.103>abstractNoun->Hunger</RAZ_ArtName_Composition.rulePack.rulesStrings.103>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.104>abstractNoun->Thirst</RAZ_ArtName_Composition.rulePack.rulesStrings.104>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.105>abstractNoun->Redemption</RAZ_ArtName_Composition.rulePack.rulesStrings.105>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.106>abstractNoun->Friendship</RAZ_ArtName_Composition.rulePack.rulesStrings.106>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.107>abstractNoun->Transcendence</RAZ_ArtName_Composition.rulePack.rulesStrings.107>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.108>abstractNoun->Dream State</RAZ_ArtName_Composition.rulePack.rulesStrings.108>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.109>abstractNoun->Wonder</RAZ_ArtName_Composition.rulePack.rulesStrings.109>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.110>abstractNoun->Companionship</RAZ_ArtName_Composition.rulePack.rulesStrings.110>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.111>abstractNoun->Laughter</RAZ_ArtName_Composition.rulePack.rulesStrings.111>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.112>abstractNoun->Comedy</RAZ_ArtName_Composition.rulePack.rulesStrings.112>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.113>abstractNoun->Hysteria</RAZ_ArtName_Composition.rulePack.rulesStrings.113>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.114>abstractNoun->Desperation</RAZ_ArtName_Composition.rulePack.rulesStrings.114>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.115>abstractNoun->Hope</RAZ_ArtName_Composition.rulePack.rulesStrings.115>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.116>abstractNoun->Housekeeping</RAZ_ArtName_Composition.rulePack.rulesStrings.116>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.117>abstractNoun->Ceremony</RAZ_ArtName_Composition.rulePack.rulesStrings.117>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.118>abstractNoun->Play</RAZ_ArtName_Composition.rulePack.rulesStrings.118>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.119>abstractNoun->Wedding</RAZ_ArtName_Composition.rulePack.rulesStrings.119>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.120>abstractNoun->Party</RAZ_ArtName_Composition.rulePack.rulesStrings.120>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.121>abstractNoun->Game</RAZ_ArtName_Composition.rulePack.rulesStrings.121>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.122>abstractNoun->Remembrance</RAZ_ArtName_Composition.rulePack.rulesStrings.122>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.123>abstractNoun->Revelation</RAZ_ArtName_Composition.rulePack.rulesStrings.123>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.124>abstractNoun->Resurrection</RAZ_ArtName_Composition.rulePack.rulesStrings.124>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.125>abstractNoun->Wanderlust</RAZ_ArtName_Composition.rulePack.rulesStrings.125>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.126>abstractNoun->Honeymoon</RAZ_ArtName_Composition.rulePack.rulesStrings.126>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.127>abstractNoun->Dance</RAZ_ArtName_Composition.rulePack.rulesStrings.127>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.128>abstractNoun->Love</RAZ_ArtName_Composition.rulePack.rulesStrings.128>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.129>abstractNoun->Lies</RAZ_ArtName_Composition.rulePack.rulesStrings.129>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.130>abstractNoun->Revolution</RAZ_ArtName_Composition.rulePack.rulesStrings.130>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.131>abstractNoun->Reflection</RAZ_ArtName_Composition.rulePack.rulesStrings.131>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.132>abstractNoun->Rasputin</RAZ_ArtName_Composition.rulePack.rulesStrings.132>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.133>abstractNoun->Chorus</RAZ_ArtName_Composition.rulePack.rulesStrings.133>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.134>abstractNoun->Time</RAZ_ArtName_Composition.rulePack.rulesStrings.134>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.135>oneSylAdj->New</RAZ_ArtName_Composition.rulePack.rulesStrings.135>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.136>oneSylAdj->Red</RAZ_ArtName_Composition.rulePack.rulesStrings.136>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.137>oneSylAdj->Blue</RAZ_ArtName_Composition.rulePack.rulesStrings.137>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.138>oneSylAdj->Fast</RAZ_ArtName_Composition.rulePack.rulesStrings.138>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.139>oneSylAdj->Whole</RAZ_ArtName_Composition.rulePack.rulesStrings.139>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.140>oneSylAdj->Neat</RAZ_ArtName_Composition.rulePack.rulesStrings.140>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.141>oneSylAdj->Green</RAZ_ArtName_Composition.rulePack.rulesStrings.141>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.142>oneSylAdj->Gold</RAZ_ArtName_Composition.rulePack.rulesStrings.142>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.143>oneSylAdj->Trite</RAZ_ArtName_Composition.rulePack.rulesStrings.143>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.144>oneSylAdj->One</RAZ_ArtName_Composition.rulePack.rulesStrings.144>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.145>oneSylAdj->Cold</RAZ_ArtName_Composition.rulePack.rulesStrings.145>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.146>oneSylAdj->Hot</RAZ_ArtName_Composition.rulePack.rulesStrings.146>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.147>oneSylAdj->Fine</RAZ_ArtName_Composition.rulePack.rulesStrings.147>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.148>oneSylAdj->Bold</RAZ_ArtName_Composition.rulePack.rulesStrings.148>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.149>oneSylAdj->Soft</RAZ_ArtName_Composition.rulePack.rulesStrings.149>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.150>oneSylAdj->Hard</RAZ_ArtName_Composition.rulePack.rulesStrings.150>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.151>oneSylAdj->Rough</RAZ_ArtName_Composition.rulePack.rulesStrings.151>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.152>oneSylAdj->Smooth</RAZ_ArtName_Composition.rulePack.rulesStrings.152>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.153>oneSylAdj->Drunk</RAZ_ArtName_Composition.rulePack.rulesStrings.153>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.154>oneSylAdj->Slow</RAZ_ArtName_Composition.rulePack.rulesStrings.154>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.155>oneSylAdj->Black</RAZ_ArtName_Composition.rulePack.rulesStrings.155>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.156>oneSylAdj->Dark</RAZ_ArtName_Composition.rulePack.rulesStrings.156>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.157>oneSylAdj->Tired</RAZ_ArtName_Composition.rulePack.rulesStrings.157>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.158>oneSylAdj->Tough</RAZ_ArtName_Composition.rulePack.rulesStrings.158>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.159>oneSylAdj->Pure</RAZ_ArtName_Composition.rulePack.rulesStrings.159>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.160>oneSylAdj->Lost</RAZ_ArtName_Composition.rulePack.rulesStrings.160>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.161>oneSylAdj->Loathed</RAZ_ArtName_Composition.rulePack.rulesStrings.161>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.162>oneSylAdj->Loved</RAZ_ArtName_Composition.rulePack.rulesStrings.162>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.163>oneSylAdj->Dry</RAZ_ArtName_Composition.rulePack.rulesStrings.163>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.164>oneSylAdj->Wet</RAZ_ArtName_Composition.rulePack.rulesStrings.164>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.165>oneSylNoun->Skin</RAZ_ArtName_Composition.rulePack.rulesStrings.165>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.166>oneSylNoun->Gun</RAZ_ArtName_Composition.rulePack.rulesStrings.166>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.167>oneSylNoun->Hat</RAZ_ArtName_Composition.rulePack.rulesStrings.167>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.168>oneSylNoun->Cat</RAZ_ArtName_Composition.rulePack.rulesStrings.168>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.169>oneSylNoun->Chair</RAZ_ArtName_Composition.rulePack.rulesStrings.169>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.170>oneSylNoun->Room</RAZ_ArtName_Composition.rulePack.rulesStrings.170>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.171>oneSylNoun->Rope</RAZ_ArtName_Composition.rulePack.rulesStrings.171>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.172>oneSylNoun->Feet</RAZ_ArtName_Composition.rulePack.rulesStrings.172>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.173>oneSylNoun->Boot</RAZ_ArtName_Composition.rulePack.rulesStrings.173>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.174>oneSylNoun->Coat</RAZ_ArtName_Composition.rulePack.rulesStrings.174>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.175>oneSylNoun->Moon</RAZ_ArtName_Composition.rulePack.rulesStrings.175>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.176>oneSylNoun->Sun</RAZ_ArtName_Composition.rulePack.rulesStrings.176>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.177>oneSylNoun->Star</RAZ_ArtName_Composition.rulePack.rulesStrings.177>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.178>oneSylNoun->Ship</RAZ_ArtName_Composition.rulePack.rulesStrings.178>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.179>oneSylNoun->Plate</RAZ_ArtName_Composition.rulePack.rulesStrings.179>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.180>oneSylNoun->Knife</RAZ_ArtName_Composition.rulePack.rulesStrings.180>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.181>oneSylNoun->Sword</RAZ_ArtName_Composition.rulePack.rulesStrings.181>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.182>oneSylNoun->Spoon</RAZ_ArtName_Composition.rulePack.rulesStrings.182>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.183>oneSylNoun->Wasp</RAZ_ArtName_Composition.rulePack.rulesStrings.183>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.184>oneSylNoun->Rat</RAZ_ArtName_Composition.rulePack.rulesStrings.184>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.185>oneSylNoun->Smoke</RAZ_ArtName_Composition.rulePack.rulesStrings.185>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.186>oneSylNoun->Slab</RAZ_ArtName_Composition.rulePack.rulesStrings.186>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.187>oneSylNoun->Fish</RAZ_ArtName_Composition.rulePack.rulesStrings.187>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.188>oneSylNoun->Card</RAZ_ArtName_Composition.rulePack.rulesStrings.188>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.189>oneSylNoun->Glass</RAZ_ArtName_Composition.rulePack.rulesStrings.189>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.190>oneSylNoun->Mug</RAZ_ArtName_Composition.rulePack.rulesStrings.190>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.191>oneSylNoun->Light</RAZ_ArtName_Composition.rulePack.rulesStrings.191>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.192>oneSylNoun->Bed</RAZ_ArtName_Composition.rulePack.rulesStrings.192>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.193>oneSylNoun->Lamp</RAZ_ArtName_Composition.rulePack.rulesStrings.193>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.194>oneSylNoun->Cup</RAZ_ArtName_Composition.rulePack.rulesStrings.194>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.195>oneSylNoun->Flame</RAZ_ArtName_Composition.rulePack.rulesStrings.195>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.196>oneSylNoun->Fire</RAZ_ArtName_Composition.rulePack.rulesStrings.196>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.197>oneSylNoun->Tree</RAZ_ArtName_Composition.rulePack.rulesStrings.197>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.198>oneSylNoun->Hand</RAZ_ArtName_Composition.rulePack.rulesStrings.198>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.199>oneSylNoun->Map</RAZ_ArtName_Composition.rulePack.rulesStrings.199>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.200>oneSylNoun->Clock</RAZ_ArtName_Composition.rulePack.rulesStrings.200>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.201>oneSylNoun->Blade</RAZ_ArtName_Composition.rulePack.rulesStrings.201>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.202>oneSylNoun->Shrine</RAZ_ArtName_Composition.rulePack.rulesStrings.202>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.203>oneSylNoun->Rules</RAZ_ArtName_Composition.rulePack.rulesStrings.203>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.204>oneSylNoun->Path</RAZ_ArtName_Composition.rulePack.rulesStrings.204>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.205>animalType->Thrumbo</RAZ_ArtName_Composition.rulePack.rulesStrings.205>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.206>animalType->Muffalo</RAZ_ArtName_Composition.rulePack.rulesStrings.206>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.207>animalType->Boomrat</RAZ_ArtName_Composition.rulePack.rulesStrings.207>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.208>animalType->Boomalope</RAZ_ArtName_Composition.rulePack.rulesStrings.208>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.209>animalType->Megatherum</RAZ_ArtName_Composition.rulePack.rulesStrings.209>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.210>animalType->Fox</RAZ_ArtName_Composition.rulePack.rulesStrings.210>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.211>animalType->Wolf</RAZ_ArtName_Composition.rulePack.rulesStrings.211>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.212>animalType->Cat</RAZ_ArtName_Composition.rulePack.rulesStrings.212>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.213>animalType->Swan</RAZ_ArtName_Composition.rulePack.rulesStrings.213>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.214>animalType->Puffin</RAZ_ArtName_Composition.rulePack.rulesStrings.214>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.215>animalType->Penguin</RAZ_ArtName_Composition.rulePack.rulesStrings.215>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.216>animalType->Warg</RAZ_ArtName_Composition.rulePack.rulesStrings.216>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.217>animalType->Alphabeaver</RAZ_ArtName_Composition.rulePack.rulesStrings.217>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.218>animalType->Labrador</RAZ_ArtName_Composition.rulePack.rulesStrings.218>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.219>animalType->Husky</RAZ_ArtName_Composition.rulePack.rulesStrings.219>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.220>animalType->Alpaca</RAZ_ArtName_Composition.rulePack.rulesStrings.220>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.221>animalType->Squirrel</RAZ_ArtName_Composition.rulePack.rulesStrings.221>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.222>animalType->Swordfish</RAZ_ArtName_Composition.rulePack.rulesStrings.222>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.223>animalType->Rat</RAZ_ArtName_Composition.rulePack.rulesStrings.223>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.224>animalType->Chicken</RAZ_ArtName_Composition.rulePack.rulesStrings.224>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.225>twoSylNoun->trombone</RAZ_ArtName_Composition.rulePack.rulesStrings.225>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.226>twoSylNoun->clarinet</RAZ_ArtName_Composition.rulePack.rulesStrings.226>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.227>twoSylNoun->guitar</RAZ_ArtName_Composition.rulePack.rulesStrings.227>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.228>twoSylNoun->piano</RAZ_ArtName_Composition.rulePack.rulesStrings.228>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.229>twoSylNoun->chainsaw</RAZ_ArtName_Composition.rulePack.rulesStrings.229>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.230>twoSylNoun->hammock</RAZ_ArtName_Composition.rulePack.rulesStrings.230>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.231>twoSylNoun->hatstand</RAZ_ArtName_Composition.rulePack.rulesStrings.231>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.232>twoSylNoun->photograph</RAZ_ArtName_Composition.rulePack.rulesStrings.232>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.233>twoSylNoun->footrest</RAZ_ArtName_Composition.rulePack.rulesStrings.233>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.234>twoSylNoun->lampshade</RAZ_ArtName_Composition.rulePack.rulesStrings.234>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.235>twoSylNoun->spaceship</RAZ_ArtName_Composition.rulePack.rulesStrings.235>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.236>twoSylNoun->bassoon</RAZ_ArtName_Composition.rulePack.rulesStrings.236>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.237>twoSylNoun->oboe</RAZ_ArtName_Composition.rulePack.rulesStrings.237>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.238>twoSylNoun->tuba</RAZ_ArtName_Composition.rulePack.rulesStrings.238>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.239>twoSylNoun->trumpet</RAZ_ArtName_Composition.rulePack.rulesStrings.239>
+  <RAZ_ArtName_Composition.rulePack.rulesStrings.240>twoSylNoun->doorstop</RAZ_ArtName_Composition.rulePack.rulesStrings.240>
+
+  <RAZ_ArtDescription_Composition.rulePack.rulesStrings.0>art_description_root->A musical composition expressing [concept].</RAZ_ArtDescription_Composition.rulePack.rulesStrings.0>
+
+
+</LanguageData>

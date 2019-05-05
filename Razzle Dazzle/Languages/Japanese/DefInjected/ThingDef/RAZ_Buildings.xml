@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Performance buildings tables -->
+
+  <StageDef.label>ステージ</StageDef.label>
+  <StageDef.description>演芸家が演劇、コンサート、ギグなどの公演を開催するステージ。</StageDef.description>
+  <StageDef_Blueprint.label>ステージ(設計)</StageDef_Blueprint.label>
+  <StageDef_Frame.label>ステージ(施工)</StageDef_Frame.label>
+  <StageDef_Frame.description>演芸家が演劇、コンサート、ギグなどの公演を開催するステージ。</StageDef_Frame.description>
+
+  <GrandPianoDef.label>ピアノ</GrandPianoDef.label>
+  <GrandPianoDef.description>音楽を作曲したり演奏できるグランドピアノです。</GrandPianoDef.description>
+  <GrandPianoDef_Blueprint.label>ピアノ(設計)</GrandPianoDef_Blueprint.label>
+  <GrandPianoDef_Frame.label>ピアノ(施工)</GrandPianoDef_Frame.label>
+  <GrandPianoDef_Frame.description>音楽を作曲したり演奏できるグランドピアノです。</GrandPianoDef_Frame.description>
+
+  <RazMicrophoneDef.label>マイク</RazMicrophoneDef.label>
+  <RazMicrophoneDef.description>リハーサルを行ったり芸を披露できるスタンドマイクです。</RazMicrophoneDef.description>
+  <RazMicrophoneDef_Blueprint.label>マイク(設計)</RazMicrophoneDef_Blueprint.label>
+  <RazMicrophoneDef_Frame.label>マイク(施工)</RazMicrophoneDef_Frame.label>
+  <RazMicrophoneDef_Frame.description>リハーサルを行ったり芸を披露できるスタンドマイクです。</RazMicrophoneDef_Frame.description>
+
+
+  <!-- Broadcast! -->
+
+  <BroadcastTowerDef.label>放送塔</BroadcastTowerDef.label>
+  <BroadcastTowerDef.description>周囲のコロニーへラジオ放送を送信するための塔。</BroadcastTowerDef.description>
+  <BroadcastTowerDef_Blueprint.label>放送塔(設計)</BroadcastTowerDef_Blueprint.label>
+  <BroadcastTowerDef_Frame.label>放送塔(施工)</BroadcastTowerDef_Frame.label>
+  <BroadcastTowerDef_Frame.description>周囲のコロニーへラジオ放送を送信するための塔。</BroadcastTowerDef_Frame.description>
+
+
+</LanguageData>
